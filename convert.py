@@ -3,7 +3,9 @@ import sys
 import json
 import csv
 
-COLUMNS = ['id', 'lang', 'authors', 'title', 'statement', 'place', 'publisher', 'year', 'contents', 'illustrations', 'keywords', 'parentId', 'parentTitle']
+COLUMNS = ['id', 'lang', 'authors', 'title', 'subtitle', 'statement', 'place', 
+           'publisher', 'year', 'editors', 'subjects', 
+           'subject_types', 'parentId', 'parentTitle']
 
 input_file = sys.argv[1]
 
@@ -26,7 +28,7 @@ input_file = sys.argv[1]
 path = 'data/b3kat_export_202211_teil01.json'
 output_path= 'data/out_test.csv'
 
-#Write header once
+#Open output file only once
 with open(output_path, 'w', encoding='utf8') as out: 
 
     #Dictwriter for better performance
@@ -36,18 +38,38 @@ with open(output_path, 'w', encoding='utf8') as out:
 
     with open(path, encoding="utf8") as f: 
 
-         data = json.load(f)
+        data = json.load(f)
 
-    rows = []
+        rows = []
 
 
-    #tbc
-    for record in data['records'].values():
-        rows += [{
-            'id': record.get('id'), 
-            'lang': record.get('lang')[0]
-            }]
+        #tbc
+        
+        for record in data['records']:
 
+            #possible arrays
+            authors = '|'.join([a['name'] for a in record.get('authors',[])])
+            editors = '|'.join([e['name'] for e in record.get('editors',[])])
+            subjects = '|'.join([s['word'] for s in record.get('keywords',[])])
+            subject_types = '|'.join([s['type'] for s in record.get('keywords',[])])
+            rows += [{
+                'id': record.get('id'), 
+                'lang': record.get('lang', [None])[0], 
+                'authors': authors, 
+                'title': record.get('title'), 
+                'subtitle': record.get('subtitle'),
+                'statement': record.get('statement'), 
+                'place': record.get('place'), 
+                'publisher': record.get('publisher'), 
+                'year': record.get('year'), 
+                'editors': editors, 
+                'subjects': subjects,
+                'subject_types': subject_types, 
+                'parentId': record.get('parentId'), 
+                'parentTitle': record.get('parentTitle'), 
+                }]
+        
+    writer.writerows(rows)
 
 
 
