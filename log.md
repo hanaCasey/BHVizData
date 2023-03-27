@@ -3,3 +3,5 @@
 22.03.2023: Meeting with Klaus Werner and Dario, email to the library to get shelf number. Started extraction from json files. Using chatgbt to find regex and formatting the json into csv. 
  
 23.03.2023: conversion from json to csv, json file not correct, Klaus Werner provided another file format. Started conversion from new json to csv
+
+27.03.2023: first mapping using umap. Golo Maurer made a comment about the empty space in the middle of the vizualisation and said: "This is where we need to buy more books".
