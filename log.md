@@ -5,3 +5,6 @@
 23.03.2023: conversion from json to csv, json file not correct, Klaus Werner provided another file format. Started conversion from new json to csv
 
 27.03.2023: first mapping using umap. Golo Maurer made a comment about the empty space in the middle of the vizualisation and said: "This is where we need to buy more books".
+
+28.03.2023: Meeting with Sabine, asked her for an sql output of four columns (bvb, bh, inventarnummer, date of acquisition). 
+
