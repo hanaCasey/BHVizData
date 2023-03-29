@@ -30,7 +30,7 @@ with tarfile.open(input_file, "r:gz") as tar:
 
         #create output path for output file
 
-        output_path = out_folder_path + '/' + member.name.replace('.json','.csv')
+        output_path = os.path.join(out_folder_path , member.name.replace('.json','.csv'))
 
         with open(output_path, 'w', encoding='utf8') as out: 
 
@@ -52,6 +52,7 @@ with tarfile.open(input_file, "r:gz") as tar:
             for record in data['records']:
 
                 #possible arrays of values
+                
                 authors = '|'.join([a['name'] for a in record.get('authors',[])])
                 editors = '|'.join([e['name'] for e in record.get('editors',[])])
                 subjects = '|'.join([s['word'] for s in record.get('keywords',[])])
