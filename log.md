@@ -12,5 +12,6 @@
 
 05.04.23: Found a way to extract information directly from MARC file. Processing it as xml or json not possible. 
 
-06.04.23: 
+06.04.23: Started extraction of signatures from marc files. LOD field is a connection between aleph and opac? 
 
+07.04.23: Signatures extracted. Decoding the website containing the signatures and subjects proves very difficult, because it has wrong level descriptions. 
