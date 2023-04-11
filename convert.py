@@ -12,7 +12,7 @@ input_file = 'data/b3kat_export_202211_enhanced.gz'
 
 # create output folder
 
-out_folder_path = 'data/csv_files'
+out_folder_path = 'data/csv'
 
 try: 
     os.mkdir(out_folder_path)
