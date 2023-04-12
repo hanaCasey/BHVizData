@@ -15,3 +15,5 @@
 06.04.23: Started extraction of signatures from marc files. LOD field is a connection between aleph and opac? 
 
 07.04.23: Signatures extracted. Decoding the website containing the signatures and subjects proves very difficult, because it has wrong level descriptions. 
+
+12.04.23: Signatures extracted and translated. However only 60'000 books have a valid signature according to the list that I have. Excel sheet with signature to text found by talking to Michael Schmitz. A lot of data cleaning necessary.
