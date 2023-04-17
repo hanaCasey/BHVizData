@@ -3454,196 +3454,101 @@
 5;Dm 560;640;...............idem (= Neuzeit (nach 1400)), nach Jahrhunderten;
 5;Dm 650;670;...............19. und 20. Jh.;
 2;Dn ;;......Architektur;
-3;"Dn
- ";;.........Baukunde und Varia ;Wesenszüge stadtrömischer Architektur = 20-30
-4;"Dn
- xxx";yyy;............Baumaterialien;
-5;"Dn
- 20";;...............allgemein;
-5;"Dn
- 22";;...............Steinbau und Steinbearbeitung;
-5;"Dn
- 24";;...............Ziegelbau und Ziegelherstellung;
-5;"Dn
- 28";;...............Holzbau;
-5;"Dn
- 32";;...............Beton- und Stahlbetonbau;
-5;"Dn
- 36";;...............Stahlbau;
-5;"Dn
- 40";;...............Glasbau;
-5;"Dn
- 48";;...............sonstige Bauweisen;
-4;"Dn
- ";;............Baubetrieb: ;Zunftwesen = 920 ff.
-5;"Dn
- 50";;...............zeitlich durchgehend;
-5;"Dn
- 52";;...............Antike und Frühchristentum (bis 800);
-5;"Dn
- 54";;...............Mittelalter (800-1400);
-5;"Dn
- 56";;...............Neuzeit (nach 1400);
-5;"Dn
- 58";;...............19. und 20. Jh.;
-4;"Dn
- 90";;............Varia;
-3;"Dn
- xxx";yyy;.........Geschichte der Architektur (außer Profanbau speziell);
-4;"Dn
- 100";105;............zeitlich durchgehend;
-4;"Dn
- 110";112;............Frühchristentum und Mittelalter (bis 1400), gesamt;
-4;"Dn
- 115";117;............Frühchristentum (vor 800);
-4;"Dn
- 120";122;............Mittelalter (800-1400), gesamt;
-4;"Dn
- 124";128;............idem (= Mittelalter (800-1400)), nach Jahrhunderten;
-4;"Dn
- 130";135;............Neuzeit (nach 1400), gesamt;
-4;"Dn
- 140";175;............idem (= Neuzeit (nach 1400)), nach Jahrhunderten;
-4;"Dn
- 177";185;............19. und 20. Jh.;
-3;"Dn
- xxx";yyy;.........Sachfragen zur Sakralarchitektur;
-4;"Dn
- xxx";yyy;............Ordensbaukunst;
-5;"Dn
- 202";;...............allgemein, zeitlich durchgehend;
-5;"Dn
- 204";;...............idem (= allgemein), Mittelalter (bis 1400);
-5;"Dn
- 206";;...............idem (= allgemein), Neuzeit (nach 1400);
-5;"Dn
- 208";;...............Benediktiner;
-5;"Dn
- 210";;...............Zisterzienser;
-5;"Dn
- 212";;...............Augustiner;
-5;"Dn
- 214";;...............Bettelorden, allgemein;
-5;"Dn
- 216";;...............idem (= Bettelorden), nur Franziskaner;
-5;"Dn
- 218";;...............idem (= Bettelorden), nur Dominikaner;
-5;"Dn
- 220";;...............idem (= Bettelorden), nur Karmeliten;
-5;"Dn
- 222";;...............idem (= Bettelorden), nur Kapuziner;
-5;"Dn
- 224";;...............idem (= Bettelorden), sonstige Bettelordenszweige;
-5;"Dn
- 226";;...............Jesuiten;
-5;"Dn
- 228";;...............sonstige geistliche Orden;
-4;"Dn
- ";;............Klosteranlagen (und deren einzelne Bauteile) allgemein: ;einzelne Klöster = 1010 ff.
-5;"Dn
- 230";;...............zeitlich durchgehend;
-5;"Dn
- 232";;...............Mittelalter (bis 1400);
-5;"Dn
- 234";;...............Neuzeit (nach 1400);
-4;"Dn
- xxx";yyy;............Friedhofsanlagen allgemein;
-5;"Dn
- 270";;...............zeitlich durchgehend;
-5;"Dn
- 276";;...............Mittelalter (800-1400);
-5;"Dn
- 278";;...............Neuzeit (nach 1400);
-5;"Dn
- 280";;...............19. und 20. Jh.;
-5;"Dn
- ";;...............;"einzelne Friedhöfe = Dt 410 ff.; Katakomben = Dm 520-525 bzw. Dt 20 ff."
-4;"Dn
- xxx";yyy;............Geschichte der Profanarchitektur;
-5;"Dn
- 300";305;...............zeitlich durchgehend;
-5;"Dn
- 310";312;...............Frühchristentum und Mittelalter (bis 1400);
-5;"Dn
- 315";317;...............Frühchristentum (vor 800);
-5;"Dn
- 320";;...............Mittelalter (800-1400), gesamt;
-5;"Dn
- 324";328;...............idem (= Mittelalter (800-1400)), nach Jahrhunderten;
-5;"Dn
- 330";;...............Neuzeit (nach 1400), gesamt;
-5;"Dn
- 340";375;...............idem (= Neuzeit (nach 1400)), nach Jahrhunderten;
-5;"Dn
- 377";385;...............19. und 20. Jh.;
-3;"Dn
- xxx";yyy;.........Sachfragen zur Profanarchitektur;
-4;"Dn
- xxx";yyy;............Öffentliche Bauten und Wohnhäuser (Castelli, Palazzi und Villen);
-5;"Dn
- 450";452;...............zeitlich durchgehend;
-5;"Dn
- 454";458;...............Frühchristentum und Mittelalter (bis 1400);
-5;"Dn
- 460";478;...............Neuzeit (nach 1400);
-5;"Dn
- 480";484;...............19. und 20. Jh.;
-4;"Dn
- xxx";yyy;............Gartenanlagen;
-5;"Dn
- 610";615;...............zeitlich durchgehend;
-5;"Dn
- 620";;...............Antike und Frühchristentum (bis 800);
-5;"Dn
- 630";;...............Mittelalter (800-1400);
-5;"Dn
- 640";;...............Neuzeit (nach 1400);
-5;"Dn
- 650";;...............19. und 20. Jh.;
-4;"Dn
- xxx";yyy;............Fest- und Gelegenheitsarchitektur (vorübergehend errichtete Triumphbögen, Trauergerüste, Ausstellungspavillons etc.);
-5;"Dn
- 710";712;...............zeitlich durchgehend;
-5;"Dn
- 720";725;...............Antike und Frühchristentum (bis 800);
-5;"Dn
- 730";735;...............Mittelalter (800-1400);
-5;"Dn
- 740";745;...............Neuzeit (nach 1400);
-5;"Dn
- 750";755;...............15. und 16. Jh.;
-5;"Dn
- 760";765;...............17. und 18. Jh.;
-5;"Dn
- 770";775;...............19. und 20. Jh.;
-3;"Dn
- xxx";yyy;.........Architektur-Zeichnung (Sammlungen von Entwürfen und Rissen zu geplanten oder ausgeführten Bauten, sowie Musterbücher und nicht lokalisierbare Idealprojekte);
-4;"Dn
- 810";812;............zeitlich durchgehend;
-4;"Dn
- 820";;............Frühchristentum (bis 800);
-4;"Dn
- 824";;............Mittelalter (800-1400);
-4;"Dn
- 828";;............Neuzeit (nach 1400);
-4;"Dn
- 832";;............19. und 20. Jh.;
-3;"Dn
- xxx";yyy;.........Bühnenbild und Bühnenausstattung;
-4;"Dn
- 910";912;............zeitlich durchgehend;
-4;"Dn
- 920";925;............Antike und Frühchristentum (bis 800);
-4;"Dn
- 930";935;............Mittelalter (800-1400);
-4;"Dn
- 940";945;............Neuzeit (nach 1400);
-4;"Dn
- 950";955;............15. und 16. Jh.;
-4;"Dn
- 960";965;............17. und 18. Jh.;
-4;"Dn
- 970";975;............19. und 20. Jh.;
+3;Dn ;;.........Baukunde und Varia ;Wesenszüge stadtrömischer Architektur = 20-30
+4;Dn xxx;yyy;............Baumaterialien;
+5;Dn 20;;...............allgemein;
+5;Dn 22;;...............Steinbau und Steinbearbeitung;
+5;Dn 24;;...............Ziegelbau und Ziegelherstellung;
+5;Dn 28;;...............Holzbau;
+5;Dn 32;;...............Beton- und Stahlbetonbau;
+5;Dn 36;;...............Stahlbau;
+5;Dn 40;;...............Glasbau;
+5;Dn 48;;...............sonstige Bauweisen;
+4;Dn ;;............Baubetrieb: ;Zunftwesen = 920 ff.
+5;Dn 50;;...............zeitlich durchgehend;
+5;Dn 52;;...............Antike und Frühchristentum (bis 800);
+5;Dn 54;;...............Mittelalter (800-1400);
+5;Dn 56;;...............Neuzeit (nach 1400);
+5;Dn 58;;...............19. und 20. Jh.;
+4;Dn 90;;............Varia;
+3;Dn xxx;yyy;.........Geschichte der Architektur (außer Profanbau speziell);
+4;Dn 100;105;............zeitlich durchgehend;
+4;Dn 110;112;............Frühchristentum und Mittelalter (bis 1400), gesamt;
+4;Dn 115;117;............Frühchristentum (vor 800);
+4;Dn 120;122;............Mittelalter (800-1400), gesamt;
+4;Dn 124;128;............idem (= Mittelalter (800-1400)), nach Jahrhunderten;
+4;Dn 130;135;............Neuzeit (nach 1400), gesamt;
+4;Dn 140;175;............idem (= Neuzeit (nach 1400)), nach Jahrhunderten;
+4;Dn 177;185;............19. und 20. Jh.;
+3;Dn xxx;yyy;.........Sachfragen zur Sakralarchitektur;
+4;Dn xxx;yyy;............Ordensbaukunst;
+5;Dn 202;;...............allgemein, zeitlich durchgehend;
+5;Dn 204;;...............idem (= allgemein), Mittelalter (bis 1400);
+5;Dn 206;;...............idem (= allgemein), Neuzeit (nach 1400);
+5;Dn 208;;...............Benediktiner;
+5;Dn 210;;...............Zisterzienser;
+5;Dn 212;;...............Augustiner;
+5;Dn 214;;...............Bettelorden, allgemein;
+5;Dn 216;;...............idem (= Bettelorden), nur Franziskaner;
+5;Dn 218;;...............idem (= Bettelorden), nur Dominikaner;
+5;Dn 220;;...............idem (= Bettelorden), nur Karmeliten;
+5;Dn 222;;...............idem (= Bettelorden), nur Kapuziner;
+5;Dn 224;;...............idem (= Bettelorden), sonstige Bettelordenszweige;
+5;Dn 226;;...............Jesuiten;
+5;Dn 228;;...............sonstige geistliche Orden;
+4;Dn ;;............Klosteranlagen (und deren einzelne Bauteile) allgemein: ;einzelne Klöster = 1010 ff.
+5;Dn 230;;...............zeitlich durchgehend;
+5;Dn 232;;...............Mittelalter (bis 1400);
+5;Dn 234;;...............Neuzeit (nach 1400);
+4;Dn xxx;yyy;............Friedhofsanlagen allgemein;
+5;Dn 270;;...............zeitlich durchgehend;
+5;Dn 276;;...............Mittelalter (800-1400);
+5;Dn 278;;...............Neuzeit (nach 1400);
+5;Dn 280;;...............19. und 20. Jh.;
+5;Dn ;;...............;"einzelne Friedhöfe = Dt 410 ff.; Katakomben = Dm 520-525 bzw. Dt 20 ff."
+4;Dn xxx;yyy;............Geschichte der Profanarchitektur;
+5;Dn 300;305;...............zeitlich durchgehend;
+5;Dn 310;312;...............Frühchristentum und Mittelalter (bis 1400);
+5;Dn 315;317;...............Frühchristentum (vor 800);
+5;Dn 320;;...............Mittelalter (800-1400), gesamt;
+5;Dn 324;328;...............idem (= Mittelalter (800-1400)), nach Jahrhunderten;
+5;Dn 330;;...............Neuzeit (nach 1400), gesamt;
+5;Dn 340;375;...............idem (= Neuzeit (nach 1400)), nach Jahrhunderten;
+5;Dn 377;385;...............19. und 20. Jh.;
+3;Dn xxx;yyy;.........Sachfragen zur Profanarchitektur;
+4;Dn xxx;yyy;............Öffentliche Bauten und Wohnhäuser (Castelli, Palazzi und Villen);
+5;Dn 450;452;...............zeitlich durchgehend;
+5;Dn 454;458;...............Frühchristentum und Mittelalter (bis 1400);
+5;Dn 460;478;...............Neuzeit (nach 1400);
+5;Dn 480;484;...............19. und 20. Jh.;
+4;Dn xxx;yyy;............Gartenanlagen;
+5;Dn 610;615;...............zeitlich durchgehend;
+5;Dn 620;;...............Antike und Frühchristentum (bis 800);
+5;Dn 630;;...............Mittelalter (800-1400);
+5;Dn 640;;...............Neuzeit (nach 1400);
+5;Dn 650;;...............19. und 20. Jh.;
+4;Dn xxx;yyy;............Fest- und Gelegenheitsarchitektur (vorübergehend errichtete Triumphbögen, Trauergerüste, Ausstellungspavillons etc.);
+5;Dn 710;712;...............zeitlich durchgehend;
+5;Dn 720;725;...............Antike und Frühchristentum (bis 800);
+5;Dn 730;735;...............Mittelalter (800-1400);
+5;Dn 740;745;...............Neuzeit (nach 1400);
+5;Dn 750;755;...............15. und 16. Jh.;
+5;Dn 760;765;...............17. und 18. Jh.;
+5;Dn 770;775;...............19. und 20. Jh.;
+3;Dn xxx;yyy;.........Architektur-Zeichnung (Sammlungen von Entwürfen und Rissen zu geplanten oder ausgeführten Bauten, sowie Musterbücher und nicht lokalisierbare Idealprojekte);
+4;Dn 810;812;............zeitlich durchgehend;
+4;Dn 820;;............Frühchristentum (bis 800);
+4;Dn 824;;............Mittelalter (800-1400);
+4;Dn 828;;............Neuzeit (nach 1400);
+4;Dn 832;;............19. und 20. Jh.;
+3;Dn xxx;yyy;.........Bühnenbild und Bühnenausstattung;
+4;Dn 910;912;............zeitlich durchgehend;
+4;Dn 920;925;............Antike und Frühchristentum (bis 800);
+4;Dn 930;935;............Mittelalter (800-1400);
+4;Dn 940;945;............Neuzeit (nach 1400);
+4;Dn 950;955;............15. und 16. Jh.;
+4;Dn 960;965;............17. und 18. Jh.;
+4;Dn 970;975;............19. und 20. Jh.;
 2;Do ;;......Plastik;
 3;Do ;;.........;Wesenszüge stadtrömischer Plastik = Dm 20 ff.
 4;Do xxx;yyy;............Geschichte der Plastik (auch einzelner Plastik-Gattungen);
