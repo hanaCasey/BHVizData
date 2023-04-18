@@ -17,3 +17,5 @@
 07.04.23: Signatures extracted. Decoding the website containing the signatures and subjects proves very difficult, because it has wrong level descriptions. 
 
 12.04.23: Signatures extracted and translated. However only 60'000 books have a valid signature according to the list that I have. Excel sheet with signature to text found by talking to Michael Schmitz. A lot of data cleaning necessary.
+
+18.04.23: Meeting with Golo Maurer and Pavla Langer: no full digital list of the signatures exist. Martin Raspe takes care of a database of all the newly added entries (called SyCa)
