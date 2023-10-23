@@ -41,4 +41,5 @@ data/hertz.mrc
 data/Freihand.xml
 data/plots/.DS_Store
 data/plots/.DS_Store
-user_data/
+thesis/user_data/
+thesis/users.csv
