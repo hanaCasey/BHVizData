@@ -1,0 +1,1139 @@
+cluster,cat,year,frequency
+2,Architecture,2016,1
+2,Catalogues,2013,4
+2,Catalogues,2016,5
+2,Catalogues,2017,4
+2,Catalogues,2018,4
+2,Cultural Institutions,2018,1
+2,Cultural Institutions,2020,2
+2,European Topography,2013,2
+2,European Topography,2016,1
+2,Iconography,2015,1
+2,Iconography,2016,1
+2,Iconography,2017,1
+2,Iconography,2018,1
+2,Iconography,2023,1
+2,Italian Art,2013,8
+2,Italian Art,2015,1
+2,Italian Art,2016,6
+2,Italian Art,2017,5
+2,Italian Art,2018,30
+2,Italian Art,2020,9
+2,Italian Art,2022,2
+2,Italian Artists,2013,8
+2,Italian Artists,2014,2
+2,Italian Artists,2016,10
+2,Italian Artists,2017,16
+2,Italian Artists,2018,17
+2,Italian Artists,2019,2
+2,Italian Artists,2020,13
+2,Italian Topography,2013,10
+2,Italian Topography,2014,2
+2,Italian Topography,2015,5
+2,Italian Topography,2016,43
+2,Italian Topography,2017,54
+2,Italian Topography,2018,11
+2,Italian Topography,2019,8
+2,Italian Topography,2020,4
+2,Italian Topography,2021,1
+2,Manuals,2016,1
+2,Manuals,2017,3
+2,Non-Italian Artists,2015,2
+2,Non-Italian Artists,2016,3
+2,Non-Italian Artists,2017,5
+2,Non-Italian Artists,2018,4
+2,Ornament,2015,2
+2,Ornament,2017,1
+2,Painting,2013,1
+2,Painting,2016,2
+2,Painting,2017,3
+2,Related Disciplines,2013,19
+2,Related Disciplines,2015,1
+2,Related Disciplines,2016,8
+2,Related Disciplines,2017,5
+2,Related Disciplines,2018,11
+2,Related Disciplines,2019,5
+2,Related Disciplines,2020,7
+2,Related Disciplines,2022,1
+2,Rome,2013,14
+2,Rome,2014,1
+2,Rome,2015,6
+2,Rome,2016,15
+2,Rome,2017,20
+2,Rome,2018,82
+2,Rome,2019,26
+2,Rome,2020,4
+2,Rome,2021,3
+2,Sources,2013,19
+2,Sources,2014,11
+2,Sources,2015,8
+2,Sources,2016,81
+2,Sources,2017,63
+2,Sources,2018,16
+2,Sources,2019,2
+2,Sources,2020,5
+2,Sources,2022,1
+2,Travel Literature,2017,3
+2,Travel Literature,2018,5
+2,Travel Literature,2019,1
+2,Travel Literature,2020,4
+2,Travel Literature,2021,6
+2,Travel Literature,2022,2
+2,Travel Literature,2023,1
+3,Art in General,2018,11
+3,Art in General,2019,4
+3,Art in General,2022,1
+3,Catalogues,2013,1
+3,Catalogues,2018,8
+3,Catalogues,2020,5
+3,"Collecting Art, Museum Studies",2021,2
+3,Italian Art,2018,4
+3,Italian Artists,2018,1
+3,Italian Topography,2019,1
+3,K,2013,1
+3,K,2018,3
+3,K,2019,4
+3,K,2021,1
+3,Non-Italian Artists,2018,1
+3,Non-Italian Artists,2019,1
+3,Non-Italian Artists,2020,3
+3,Related Disciplines,2017,3
+3,Related Disciplines,2018,33
+3,Related Disciplines,2019,25
+3,Related Disciplines,2020,6
+3,Related Disciplines,2021,12
+3,Related Disciplines,2022,3
+3,Rome,2018,2
+3,Rome,2019,1
+3,Travel Literature,2018,1
+3,Travel Literature,2019,6
+3,Travel Literature,2022,2
+5,Applied Arts,2017,1
+5,Art in General,2013,1
+5,Art in General,2017,1
+5,Art in General,2019,1
+5,Art in General,2023,1
+5,Catalogues,2013,1
+5,Catalogues,2014,1
+5,Catalogues,2015,2
+5,Catalogues,2016,4
+5,Catalogues,2017,3
+5,Catalogues,2022,9
+5,Catalogues,2023,7
+5,"Collecting Art, Museum Studies",2021,1
+5,"Collecting Art, Museum Studies",2022,2
+5,"Collecting Art, Museum Studies",2023,1
+5,European Topography,2014,1
+5,European Topography,2017,1
+5,European Topography,2022,1
+5,European Topography,2023,1
+5,Graphic Arts,2015,1
+5,Graphic Arts,2017,2
+5,Graphic Arts,2019,1
+5,Graphic Arts,2022,1
+5,Iconography,2017,1
+5,Iconography,2022,1
+5,Iconography,2023,2
+5,Italian Art,2013,1
+5,Italian Art,2014,2
+5,Italian Art,2015,3
+5,Italian Art,2016,1
+5,Italian Art,2017,1
+5,Italian Art,2020,1
+5,Italian Art,2022,3
+5,Italian Art,2023,6
+5,Italian Artists,2013,1
+5,Italian Artists,2015,1
+5,Italian Artists,2016,2
+5,Italian Artists,2017,1
+5,Italian Artists,2018,2
+5,Italian Artists,2019,2
+5,Italian Artists,2021,1
+5,Italian Artists,2022,2
+5,Italian Artists,2023,5
+5,Italian Topography,2015,2
+5,Italian Topography,2016,3
+5,Italian Topography,2017,1
+5,Italian Topography,2019,5
+5,Italian Topography,2021,1
+5,Italian Topography,2022,6
+5,Italian Topography,2023,1
+5,K,2018,1
+5,K,2022,4
+5,K,2023,1
+5,Manuals,2022,1
+5,Non-Italian Artists,2015,2
+5,Non-Italian Artists,2016,1
+5,Non-Italian Artists,2017,1
+5,Non-Italian Artists,2022,6
+5,Non-Italian Artists,2023,1
+5,Painting,2015,2
+5,Painting,2016,1
+5,Painting,2022,4
+5,Related Disciplines,2013,1
+5,Related Disciplines,2015,2
+5,Related Disciplines,2016,2
+5,Related Disciplines,2017,1
+5,Related Disciplines,2018,1
+5,Related Disciplines,2019,1
+5,Related Disciplines,2020,3
+5,Related Disciplines,2022,5
+5,Related Disciplines,2023,2
+5,Rome,2015,2
+5,Rome,2016,1
+5,Rome,2022,5
+5,Rome,2023,4
+5,Sculpture,2014,1
+5,Sculpture,2016,1
+5,Travel Literature,2016,1
+7,Applied Arts,2013,6
+7,Applied Arts,2014,10
+7,Applied Arts,2015,4
+7,Applied Arts,2016,8
+7,Applied Arts,2017,19
+7,Applied Arts,2018,3
+7,Applied Arts,2019,2
+7,Applied Arts,2020,2
+7,Applied Arts,2021,5
+7,Applied Arts,2022,3
+7,Architecture,2015,21
+7,Architecture,2016,1
+7,Architecture,2020,2
+7,Architecture,2021,7
+7,Architecture,2022,3
+7,Architecture,2023,1
+7,Art in General,2013,6
+7,Art in General,2014,4
+7,Art in General,2015,3
+7,Art in General,2016,9
+7,Art in General,2017,9
+7,Art in General,2018,10
+7,Art in General,2019,12
+7,Art in General,2020,3
+7,Art in General,2021,17
+7,Art in General,2022,14
+7,Art in General,2023,8
+7,Catalogues,2013,3
+7,Catalogues,2014,7
+7,Catalogues,2015,3
+7,Catalogues,2016,3
+7,Catalogues,2017,21
+7,Catalogues,2018,10
+7,Catalogues,2019,9
+7,Catalogues,2020,7
+7,Catalogues,2021,6
+7,Catalogues,2022,3
+7,Catalogues,2023,4
+7,Congress Publications,2013,2
+7,Congress Publications,2016,4
+7,Congress Publications,2017,1
+7,Congress Publications,2018,2
+7,Congress Publications,2019,2
+7,Congress Publications,2020,3
+7,Congress Publications,2021,4
+7,Congress Publications,2022,5
+7,Congress Publications,2023,10
+7,Cultural Institutions,2022,1
+7,European Topography,2013,2
+7,European Topography,2015,1
+7,European Topography,2017,4
+7,European Topography,2018,5
+7,European Topography,2019,5
+7,European Topography,2020,3
+7,European Topography,2021,15
+7,European Topography,2022,1
+7,European Topography,2023,1
+7,Graphic Arts,2021,1
+7,Graphic Arts,2022,1
+7,Iconography,2013,15
+7,Iconography,2014,5
+7,Iconography,2015,6
+7,Iconography,2016,4
+7,Iconography,2017,15
+7,Iconography,2018,13
+7,Iconography,2019,22
+7,Iconography,2020,5
+7,Iconography,2021,19
+7,Iconography,2022,24
+7,Iconography,2023,11
+7,Italian Art,2013,2
+7,Italian Art,2015,1
+7,Italian Art,2016,7
+7,Italian Art,2017,11
+7,Italian Art,2018,11
+7,Italian Art,2019,5
+7,Italian Art,2020,3
+7,Italian Art,2021,5
+7,Italian Art,2022,7
+7,Italian Art,2023,5
+7,Italian Artists,2013,2
+7,Italian Artists,2014,3
+7,Italian Artists,2015,3
+7,Italian Artists,2016,2
+7,Italian Artists,2017,9
+7,Italian Artists,2018,14
+7,Italian Artists,2019,3
+7,Italian Artists,2020,2
+7,Italian Artists,2021,2
+7,Italian Topography,2013,5
+7,Italian Topography,2014,5
+7,Italian Topography,2015,1
+7,Italian Topography,2016,8
+7,Italian Topography,2017,16
+7,Italian Topography,2018,14
+7,Italian Topography,2019,7
+7,Italian Topography,2020,3
+7,Italian Topography,2021,5
+7,Italian Topography,2022,13
+7,Italian Topography,2023,12
+7,K,2013,1
+7,K,2015,2
+7,K,2016,1
+7,K,2017,1
+7,K,2018,8
+7,K,2019,2
+7,K,2020,2
+7,K,2021,1
+7,K,2022,10
+7,K,2023,3
+7,Manuals,2013,3
+7,Manuals,2016,2
+7,Manuals,2017,1
+7,Manuals,2018,1
+7,Manuals,2020,9
+7,Manuals,2021,1
+7,Manuscript Illumination,2017,3
+7,Manuscript Illumination,2019,1
+7,Non-Italian Artists,2017,1
+7,Non-Italian Artists,2018,4
+7,Non-Italian Artists,2019,2
+7,Non-Italian Artists,2020,11
+7,Non-Italian Artists,2021,13
+7,Non-Italian Artists,2022,10
+7,Non-Italian Artists,2023,23
+7,Ornament,2014,1
+7,Ornament,2017,1
+7,Painting,2014,3
+7,Painting,2017,3
+7,Painting,2018,2
+7,Painting,2019,10
+7,Painting,2020,2
+7,Painting,2021,5
+7,Painting,2022,2
+7,Painting,2023,2
+7,Registers of Artistic Monuments,2021,1
+7,Related Disciplines,2013,2
+7,Related Disciplines,2014,4
+7,Related Disciplines,2015,9
+7,Related Disciplines,2016,3
+7,Related Disciplines,2017,17
+7,Related Disciplines,2018,22
+7,Related Disciplines,2019,18
+7,Related Disciplines,2020,3
+7,Related Disciplines,2021,4
+7,Related Disciplines,2022,21
+7,Related Disciplines,2023,11
+7,Rome,2013,2
+7,Rome,2015,8
+7,Rome,2016,1
+7,Rome,2017,5
+7,Rome,2018,6
+7,Rome,2019,8
+7,Rome,2020,6
+7,Rome,2021,17
+7,Rome,2022,34
+7,Rome,2023,30
+7,Sculpture,2015,4
+7,Sculpture,2016,1
+7,Sculpture,2017,1
+7,Sculpture,2019,5
+7,Sculpture,2020,2
+7,Sculpture,2022,1
+7,Sculpture,2023,1
+7,Sources,2017,1
+7,Sources,2023,2
+7,Travel Literature,2021,3
+28,Applied Arts,2013,5
+28,Architecture,2013,1
+28,Architecture,2014,4
+28,Architecture,2015,2
+28,Architecture,2016,1
+28,Architecture,2021,1
+28,Architecture,2022,1
+28,Art in General,2013,4
+28,Art in General,2014,4
+28,Art in General,2015,2
+28,Art in General,2016,1
+28,Art in General,2017,3
+28,Art in General,2022,1
+28,Catalogues,2013,32
+28,Catalogues,2014,24
+28,Catalogues,2015,18
+28,Catalogues,2016,8
+28,Catalogues,2017,1
+28,Catalogues,2019,2
+28,Catalogues,2020,1
+28,Catalogues,2021,1
+28,Catalogues,2023,2
+28,Congress Publications,2013,7
+28,Congress Publications,2014,4
+28,Congress Publications,2016,2
+28,Congress Publications,2017,3
+28,Congress Publications,2018,1
+28,Congress Publications,2019,1
+28,Congress Publications,2021,1
+28,Cultural Institutions,2014,2
+28,Cultural Institutions,2015,3
+28,Cultural Institutions,2018,1
+28,European Topography,2013,5
+28,European Topography,2014,2
+28,European Topography,2019,1
+28,Graphic Arts,2013,2
+28,Graphic Arts,2014,3
+28,Graphic Arts,2015,2
+28,Graphic Arts,2016,2
+28,Graphic Arts,2017,1
+28,Graphic Arts,2019,2
+28,Graphic Arts,2022,1
+28,Iconography,2013,11
+28,Iconography,2014,10
+28,Iconography,2015,1
+28,Iconography,2018,1
+28,Iconography,2019,1
+28,Italian Art,2013,20
+28,Italian Art,2014,26
+28,Italian Art,2015,13
+28,Italian Art,2016,2
+28,Italian Art,2017,2
+28,Italian Art,2018,2
+28,Italian Art,2022,2
+28,Italian Art,2023,1
+28,Italian Artists,2013,101
+28,Italian Artists,2014,31
+28,Italian Artists,2015,33
+28,Italian Artists,2016,10
+28,Italian Artists,2017,7
+28,Italian Artists,2018,14
+28,Italian Artists,2019,6
+28,Italian Artists,2020,1
+28,Italian Artists,2021,5
+28,Italian Artists,2023,1
+28,Italian Topography,2013,24
+28,Italian Topography,2014,24
+28,Italian Topography,2015,19
+28,Italian Topography,2016,4
+28,Italian Topography,2017,5
+28,Italian Topography,2018,3
+28,Italian Topography,2019,1
+28,Italian Topography,2022,17
+28,K,2014,6
+28,K,2015,2
+28,K,2016,3
+28,K,2017,1
+28,K,2018,1
+28,Manuals,2013,6
+28,Manuals,2014,14
+28,Manuals,2015,1
+28,Manuals,2017,3
+28,Manuals,2023,1
+28,Non-Italian Artists,2013,4
+28,Non-Italian Artists,2014,22
+28,Non-Italian Artists,2015,1
+28,Non-Italian Artists,2017,1
+28,Non-Italian Artists,2018,1
+28,Non-Italian Artists,2021,1
+28,Painting,2013,2
+28,Painting,2014,2
+28,Painting,2019,1
+28,Related Disciplines,2013,27
+28,Related Disciplines,2014,26
+28,Related Disciplines,2015,6
+28,Related Disciplines,2016,2
+28,Related Disciplines,2017,3
+28,Related Disciplines,2018,5
+28,Related Disciplines,2019,2
+28,Related Disciplines,2021,1
+28,Rome,2013,16
+28,Rome,2014,19
+28,Rome,2015,11
+28,Rome,2016,2
+28,Rome,2017,8
+28,Rome,2021,3
+28,Sculpture,2015,2
+28,Sculpture,2017,1
+28,Sources,2013,4
+28,Travel Literature,2013,1
+28,Travel Literature,2014,5
+28,Travel Literature,2015,2
+28,Travel Literature,2017,1
+28,Travel Literature,2018,1
+28,World Topography,2014,1
+29,Applied Arts,2022,1
+29,Architecture,2023,1
+29,Art in General,2013,1
+29,Art in General,2015,1
+29,Art in General,2017,1
+29,Art in General,2020,2
+29,Art in General,2021,6
+29,Art in General,2022,4
+29,Art in General,2023,8
+29,Catalogues,2016,1
+29,Catalogues,2021,7
+29,Catalogues,2022,5
+29,Catalogues,2023,6
+29,Congress Publications,2023,1
+29,Iconography,2014,3
+29,Iconography,2017,1
+29,Iconography,2018,1
+29,Iconography,2019,4
+29,Iconography,2020,2
+29,Iconography,2021,10
+29,Iconography,2022,15
+29,Iconography,2023,22
+29,Italian Art,2016,1
+29,Italian Art,2017,3
+29,Italian Art,2021,1
+29,Italian Art,2022,1
+29,Italian Art,2023,2
+29,Italian Artists,2016,1
+29,Italian Artists,2020,1
+29,Italian Artists,2021,2
+29,Italian Artists,2022,5
+29,Italian Artists,2023,7
+29,Italian Topography,2014,1
+29,Italian Topography,2022,2
+29,Italian Topography,2023,6
+29,K,2022,1
+29,K,2023,2
+29,Manuals,2022,3
+29,Manuals,2023,6
+29,Non-Italian Artists,2013,1
+29,Non-Italian Artists,2016,1
+29,Non-Italian Artists,2022,9
+29,Non-Italian Artists,2023,1
+29,Painting,2021,1
+29,Painting,2022,6
+29,Related Disciplines,2021,1
+29,Related Disciplines,2022,5
+29,Related Disciplines,2023,11
+29,Rome,2021,2
+29,Rome,2022,3
+29,Rome,2023,2
+42,Applied Arts,2015,1
+42,Applied Arts,2019,1
+42,Art in General,2015,2
+42,Art in General,2016,1
+42,Art in General,2018,1
+42,Art in General,2019,5
+42,Art in General,2021,1
+42,Art in General,2022,2
+42,Art in General,2023,2
+42,Catalogues,2015,1
+42,Catalogues,2018,1
+42,Catalogues,2021,1
+42,"Collecting Art, Museum Studies",2016,2
+42,"Collecting Art, Museum Studies",2018,2
+42,"Collecting Art, Museum Studies",2019,1
+42,Congress Publications,2015,3
+42,Congress Publications,2016,2
+42,Congress Publications,2018,2
+42,Congress Publications,2019,1
+42,Iconography,2016,2
+42,Iconography,2019,1
+42,Iconography,2020,1
+42,Iconography,2021,1
+42,Iconography,2022,2
+42,Italian Art,2016,4
+42,Italian Art,2017,5
+42,Italian Art,2018,4
+42,Italian Art,2021,5
+42,Italian Art,2022,2
+42,Italian Artists,2020,1
+42,Italian Topography,2013,1
+42,Italian Topography,2015,2
+42,Italian Topography,2016,3
+42,Italian Topography,2017,8
+42,Italian Topography,2018,2
+42,Italian Topography,2019,8
+42,Italian Topography,2020,4
+42,Italian Topography,2021,8
+42,Italian Topography,2022,1
+42,K,2018,1
+42,K,2020,1
+42,K,2021,2
+42,Manuals,2021,1
+42,Manuscript Illumination,2019,1
+42,Non-Italian Artists,2016,1
+42,Related Disciplines,2016,8
+42,Related Disciplines,2018,15
+42,Related Disciplines,2019,1
+42,Related Disciplines,2021,1
+42,Related Disciplines,2022,8
+42,Rome,2017,1
+42,Rome,2018,1
+42,Sculpture,2022,1
+55,Applied Arts,2013,1
+55,Applied Arts,2016,1
+55,Applied Arts,2017,10
+55,Architecture,2013,1
+55,Architecture,2015,2
+55,Architecture,2016,2
+55,Architecture,2018,8
+55,Art in General,2013,1
+55,Art in General,2014,4
+55,Art in General,2016,8
+55,Art in General,2017,1
+55,Art in General,2018,18
+55,Art in General,2019,8
+55,Art in General,2021,1
+55,Art in General,2022,6
+55,Art in General,2023,2
+55,Catalogues,2013,13
+55,Catalogues,2014,24
+55,Catalogues,2015,5
+55,Catalogues,2016,38
+55,Catalogues,2017,22
+55,Catalogues,2018,14
+55,Catalogues,2019,2
+55,Catalogues,2021,2
+55,Catalogues,2022,2
+55,Catalogues,2023,3
+55,"Collecting Art, Museum Studies",2016,2
+55,"Collecting Art, Museum Studies",2018,1
+55,Congress Publications,2013,7
+55,Congress Publications,2014,5
+55,Congress Publications,2015,2
+55,Congress Publications,2016,15
+55,Congress Publications,2017,12
+55,Congress Publications,2018,12
+55,Congress Publications,2019,5
+55,Cultural Institutions,2016,1
+55,European Topography,2014,1
+55,European Topography,2015,2
+55,European Topography,2016,4
+55,European Topography,2017,1
+55,European Topography,2018,2
+55,Graphic Arts,2013,1
+55,Graphic Arts,2016,1
+55,Iconography,2013,4
+55,Iconography,2014,7
+55,Iconography,2015,10
+55,Iconography,2016,17
+55,Iconography,2017,19
+55,Iconography,2018,7
+55,Iconography,2019,1
+55,Iconography,2021,1
+55,Iconography,2023,3
+55,Italian Art,2013,8
+55,Italian Art,2014,5
+55,Italian Art,2015,12
+55,Italian Art,2016,14
+55,Italian Art,2017,13
+55,Italian Art,2018,10
+55,Italian Art,2019,8
+55,Italian Artists,2013,21
+55,Italian Artists,2014,8
+55,Italian Artists,2015,54
+55,Italian Artists,2016,27
+55,Italian Artists,2017,33
+55,Italian Artists,2018,11
+55,Italian Artists,2019,9
+55,Italian Artists,2021,4
+55,Italian Artists,2022,2
+55,Italian Artists,2023,1
+55,Italian Topography,2013,3
+55,Italian Topography,2014,6
+55,Italian Topography,2015,10
+55,Italian Topography,2016,19
+55,Italian Topography,2017,6
+55,Italian Topography,2018,1
+55,Italian Topography,2019,6
+55,K,2013,3
+55,K,2014,5
+55,K,2015,33
+55,K,2016,9
+55,K,2017,12
+55,K,2018,6
+55,K,2019,2
+55,K,2022,2
+55,Manuals,2013,5
+55,Manuals,2014,3
+55,Manuals,2015,4
+55,Manuals,2016,2
+55,Manuals,2018,5
+55,Manuals,2019,3
+55,Manuals,2020,2
+55,Non-Italian Artists,2013,8
+55,Non-Italian Artists,2014,17
+55,Non-Italian Artists,2015,11
+55,Non-Italian Artists,2016,3
+55,Non-Italian Artists,2017,3
+55,Non-Italian Artists,2018,12
+55,Non-Italian Artists,2019,13
+55,Non-Italian Artists,2021,2
+55,Painting,2014,1
+55,Painting,2015,1
+55,Painting,2016,2
+55,Painting,2017,4
+55,Related Disciplines,2014,5
+55,Related Disciplines,2015,14
+55,Related Disciplines,2016,21
+55,Related Disciplines,2017,9
+55,Related Disciplines,2018,11
+55,Related Disciplines,2019,11
+55,Related Disciplines,2020,6
+55,Related Disciplines,2021,5
+55,Related Disciplines,2022,2
+55,Related Disciplines,2023,4
+55,Rome,2013,5
+55,Rome,2014,3
+55,Rome,2015,10
+55,Rome,2016,2
+55,Rome,2017,10
+55,Rome,2018,2
+55,Rome,2019,5
+55,Rome,2021,2
+55,Rome,2022,1
+55,Sculpture,2014,1
+55,Sculpture,2017,1
+55,Sculpture,2018,4
+55,Sources,2014,2
+55,Sources,2015,6
+55,Sources,2016,2
+55,Sources,2017,2
+55,Sources,2018,3
+55,Travel Literature,2013,6
+55,Travel Literature,2014,3
+55,Travel Literature,2017,3
+55,Travel Literature,2022,1
+90,Architecture,2013,1
+90,Art in General,2014,1
+90,Art in General,2016,1
+90,Art in General,2019,1
+90,Art in General,2020,3
+90,Art in General,2022,1
+90,Catalogues,2013,1
+90,Catalogues,2014,1
+90,Catalogues,2015,1
+90,Catalogues,2016,2
+90,Catalogues,2017,1
+90,Catalogues,2018,3
+90,Catalogues,2019,2
+90,Catalogues,2020,1
+90,Catalogues,2021,1
+90,Catalogues,2022,2
+90,Congress Publications,2013,1
+90,Congress Publications,2014,1
+90,Congress Publications,2015,1
+90,Congress Publications,2023,1
+90,European Topography,2015,4
+90,Graphic Arts,2014,1
+90,Graphic Arts,2016,1
+90,Graphic Arts,2019,1
+90,Graphic Arts,2021,1
+90,Iconography,2013,2
+90,Iconography,2014,6
+90,Iconography,2016,1
+90,Iconography,2018,2
+90,Iconography,2019,3
+90,Iconography,2020,4
+90,Iconography,2021,3
+90,Iconography,2022,5
+90,Iconography,2023,1
+90,Italian Art,2013,2
+90,Italian Art,2015,1
+90,Italian Art,2017,1
+90,Italian Art,2019,4
+90,Italian Art,2021,6
+90,Italian Art,2022,1
+90,Italian Artists,2013,3
+90,Italian Artists,2014,1
+90,Italian Topography,2013,11
+90,Italian Topography,2018,1
+90,Italian Topography,2020,1
+90,Italian Topography,2021,1
+90,Italian Topography,2023,1
+90,K,2018,2
+90,Manuscript Illumination,2019,4
+90,Manuscript Illumination,2021,1
+90,Non-Italian Artists,2018,1
+90,Non-Italian Artists,2019,3
+90,Non-Italian Artists,2022,1
+90,Related Disciplines,2013,3
+90,Related Disciplines,2014,2
+90,Related Disciplines,2015,1
+90,Related Disciplines,2016,1
+90,Related Disciplines,2017,1
+90,Related Disciplines,2018,7
+90,Related Disciplines,2019,6
+90,Related Disciplines,2020,1
+90,Related Disciplines,2021,3
+90,Related Disciplines,2022,2
+90,Related Disciplines,2023,2
+90,Rome,2013,2
+90,Rome,2016,1
+90,Rome,2017,1
+90,Rome,2019,1
+112,Applied Arts,2016,3
+112,Architecture,2013,1
+112,Architecture,2014,1
+112,Architecture,2016,1
+112,Architecture,2017,1
+112,Art in General,2016,2
+112,Art in General,2017,1
+112,Catalogues,2013,3
+112,Catalogues,2014,14
+112,Catalogues,2015,5
+112,Catalogues,2016,21
+112,Catalogues,2017,10
+112,Catalogues,2018,1
+112,Catalogues,2019,1
+112,Catalogues,2021,1
+112,Congress Publications,2013,1
+112,Congress Publications,2014,1
+112,Congress Publications,2015,4
+112,Congress Publications,2016,1
+112,Congress Publications,2017,2
+112,Congress Publications,2018,1
+112,Cultural Institutions,2014,1
+112,Cultural Institutions,2016,2
+112,European Topography,2014,1
+112,European Topography,2016,1
+112,Iconography,2015,2
+112,Italian Artists,2014,1
+112,Italian Artists,2016,1
+112,Italian Artists,2022,1
+112,Italian Topography,2013,8
+112,Italian Topography,2014,10
+112,Italian Topography,2015,6
+112,K,2013,1
+112,K,2015,2
+112,K,2016,1
+112,K,2017,2
+112,Manuals,2013,1
+112,Manuals,2015,1
+112,Manuals,2016,1
+112,Non-Italian Artists,2014,6
+112,Non-Italian Artists,2015,1
+112,Non-Italian Artists,2016,7
+112,Non-Italian Artists,2017,2
+112,Non-Italian Artists,2019,3
+112,Non-Italian Artists,2020,1
+112,Painting,2014,3
+112,Painting,2016,3
+112,Painting,2023,1
+112,Related Disciplines,2013,19
+112,Related Disciplines,2014,17
+112,Related Disciplines,2015,13
+112,Related Disciplines,2016,8
+112,Related Disciplines,2017,4
+112,Related Disciplines,2022,3
+112,Rome,2014,1
+112,Rome,2015,2
+112,Sculpture,2013,1
+112,Sculpture,2019,2
+112,Sources,2013,1
+112,Sources,2015,1
+112,Sources,2016,1
+112,Travel Literature,2014,1
+112,Travel Literature,2016,1
+113,Applied Arts,2014,3
+113,Applied Arts,2016,1
+113,Architecture,2017,5
+113,Architecture,2018,1
+113,Art in General,2014,1
+113,Art in General,2015,4
+113,Art in General,2019,5
+113,Art in General,2023,1
+113,Catalogues,2013,4
+113,Catalogues,2014,9
+113,Catalogues,2015,11
+113,Catalogues,2016,7
+113,Catalogues,2017,5
+113,Catalogues,2018,5
+113,Catalogues,2019,2
+113,"Collecting Art, Museum Studies",2015,2
+113,"Collecting Art, Museum Studies",2016,1
+113,"Collecting Art, Museum Studies",2017,1
+113,"Collecting Art, Museum Studies",2019,1
+113,"Collecting Art, Museum Studies",2023,1
+113,Congress Publications,2015,1
+113,Congress Publications,2016,2
+113,Cultural Institutions,2015,1
+113,Cultural Institutions,2016,3
+113,Cultural Institutions,2018,2
+113,Cultural Institutions,2022,1
+113,European Topography,2014,2
+113,European Topography,2015,3
+113,European Topography,2017,1
+113,European Topography,2018,1
+113,European Topography,2019,2
+113,Graphic Arts,2017,1
+113,Graphic Arts,2020,1
+113,Iconography,2013,2
+113,Iconography,2015,2
+113,Iconography,2017,2
+113,Iconography,2019,1
+113,Italian Art,2013,1
+113,Italian Art,2014,8
+113,Italian Art,2015,1
+113,Italian Art,2016,2
+113,Italian Art,2018,3
+113,Italian Art,2020,1
+113,Italian Artists,2013,5
+113,Italian Artists,2014,8
+113,Italian Artists,2015,5
+113,Italian Artists,2016,3
+113,Italian Artists,2017,5
+113,Italian Artists,2018,6
+113,Italian Artists,2019,2
+113,Italian Artists,2020,2
+113,Italian Artists,2021,1
+113,Italian Topography,2014,2
+113,Italian Topography,2015,6
+113,Italian Topography,2016,10
+113,Italian Topography,2017,6
+113,Italian Topography,2018,1
+113,Italian Topography,2019,1
+113,K,2013,1
+113,K,2015,2
+113,K,2016,1
+113,K,2019,2
+113,Manuals,2013,1
+113,Manuals,2014,1
+113,Manuals,2018,1
+113,Non-Italian Artists,2013,5
+113,Non-Italian Artists,2014,5
+113,Non-Italian Artists,2015,4
+113,Non-Italian Artists,2017,2
+113,Non-Italian Artists,2018,2
+113,Non-Italian Artists,2019,4
+113,Painting,2013,5
+113,Painting,2015,4
+113,Related Disciplines,2013,1
+113,Related Disciplines,2015,3
+113,Related Disciplines,2016,1
+113,Related Disciplines,2018,1
+113,Related Disciplines,2019,6
+113,Rome,2015,2
+113,Rome,2016,1
+113,Rome,2017,2
+113,Sources,2015,6
+113,Sources,2016,1
+113,Sources,2017,1
+113,Sources,2018,1
+113,Travel Literature,2015,1
+113,Travel Literature,2019,2
+113,World Topography,2014,1
+114,Applied Arts,2013,5
+114,Applied Arts,2014,4
+114,Applied Arts,2015,4
+114,Applied Arts,2016,3
+114,Applied Arts,2017,2
+114,Applied Arts,2021,1
+114,Applied Arts,2022,8
+114,Architecture,2013,8
+114,Architecture,2014,5
+114,Architecture,2015,21
+114,Architecture,2016,8
+114,Architecture,2017,3
+114,Architecture,2018,2
+114,Architecture,2019,2
+114,Architecture,2020,2
+114,Architecture,2022,2
+114,Architecture,2023,7
+114,Art in General,2013,9
+114,Art in General,2014,24
+114,Art in General,2015,23
+114,Art in General,2016,15
+114,Art in General,2017,21
+114,Art in General,2018,14
+114,Art in General,2019,27
+114,Art in General,2021,2
+114,Art in General,2022,3
+114,Art in General,2023,4
+114,Catalogues,2013,218
+114,Catalogues,2014,161
+114,Catalogues,2015,192
+114,Catalogues,2016,130
+114,Catalogues,2017,146
+114,Catalogues,2018,95
+114,Catalogues,2019,69
+114,Catalogues,2020,10
+114,Catalogues,2021,17
+114,Catalogues,2022,42
+114,Catalogues,2023,21
+114,"Collecting Art, Museum Studies",2013,4
+114,"Collecting Art, Museum Studies",2014,3
+114,"Collecting Art, Museum Studies",2015,6
+114,"Collecting Art, Museum Studies",2016,4
+114,"Collecting Art, Museum Studies",2018,2
+114,"Collecting Art, Museum Studies",2022,2
+114,"Collecting Art, Museum Studies",2023,1
+114,Congress Publications,2013,48
+114,Congress Publications,2014,66
+114,Congress Publications,2015,80
+114,Congress Publications,2016,77
+114,Congress Publications,2017,65
+114,Congress Publications,2018,55
+114,Congress Publications,2019,33
+114,Congress Publications,2020,7
+114,Congress Publications,2021,12
+114,Congress Publications,2022,2
+114,Congress Publications,2023,1
+114,Cultural Institutions,2014,4
+114,Cultural Institutions,2016,1
+114,Cultural Institutions,2017,14
+114,Cultural Institutions,2018,7
+114,Cultural Institutions,2021,1
+114,Cultural Institutions,2023,3
+114,European Topography,2013,1
+114,European Topography,2014,11
+114,European Topography,2015,7
+114,European Topography,2016,5
+114,European Topography,2017,2
+114,European Topography,2018,8
+114,European Topography,2019,5
+114,European Topography,2020,1
+114,European Topography,2021,2
+114,European Topography,2023,1
+114,Graphic Arts,2013,2
+114,Iconography,2013,39
+114,Iconography,2014,60
+114,Iconography,2015,74
+114,Iconography,2016,61
+114,Iconography,2017,54
+114,Iconography,2018,47
+114,Iconography,2019,27
+114,Iconography,2020,4
+114,Iconography,2021,7
+114,Iconography,2022,9
+114,Iconography,2023,1
+114,Italian Art,2013,63
+114,Italian Art,2014,93
+114,Italian Art,2015,81
+114,Italian Art,2016,87
+114,Italian Art,2017,57
+114,Italian Art,2018,50
+114,Italian Art,2019,29
+114,Italian Art,2020,6
+114,Italian Art,2021,6
+114,Italian Art,2022,9
+114,Italian Art,2023,2
+114,Italian Artists,2013,306
+114,Italian Artists,2014,272
+114,Italian Artists,2015,272
+114,Italian Artists,2016,218
+114,Italian Artists,2017,190
+114,Italian Artists,2018,133
+114,Italian Artists,2019,91
+114,Italian Artists,2020,13
+114,Italian Artists,2021,12
+114,Italian Artists,2022,40
+114,Italian Artists,2023,32
+114,Italian Topography,2013,58
+114,Italian Topography,2014,66
+114,Italian Topography,2015,54
+114,Italian Topography,2016,88
+114,Italian Topography,2017,60
+114,Italian Topography,2018,47
+114,Italian Topography,2019,33
+114,Italian Topography,2020,3
+114,Italian Topography,2021,6
+114,Italian Topography,2022,7
+114,Italian Topography,2023,8
+114,K,2013,34
+114,K,2014,36
+114,K,2015,65
+114,K,2016,54
+114,K,2017,74
+114,K,2018,32
+114,K,2019,32
+114,K,2021,5
+114,K,2022,3
+114,K,2023,3
+114,Manuals,2013,10
+114,Manuals,2014,25
+114,Manuals,2015,20
+114,Manuals,2016,9
+114,Manuals,2017,13
+114,Manuals,2018,16
+114,Manuals,2019,11
+114,Manuals,2021,1
+114,Manuals,2022,2
+114,Manuals,2023,1
+114,Manuscript Illumination,2014,2
+114,Manuscript Illumination,2015,3
+114,Manuscript Illumination,2017,2
+114,Manuscript Illumination,2018,1
+114,Manuscript Illumination,2019,6
+114,Manuscript Illumination,2021,2
+114,Non-Italian Artists,2013,62
+114,Non-Italian Artists,2014,78
+114,Non-Italian Artists,2015,72
+114,Non-Italian Artists,2016,63
+114,Non-Italian Artists,2017,72
+114,Non-Italian Artists,2018,45
+114,Non-Italian Artists,2019,41
+114,Non-Italian Artists,2020,1
+114,Non-Italian Artists,2021,3
+114,Non-Italian Artists,2022,9
+114,Non-Italian Artists,2023,2
+114,Ornament,2019,2
+114,Painting,2013,138
+114,Painting,2014,129
+114,Painting,2015,121
+114,Painting,2016,98
+114,Painting,2017,93
+114,Painting,2018,61
+114,Painting,2019,29
+114,Painting,2021,6
+114,Painting,2022,5
+114,Related Disciplines,2013,82
+114,Related Disciplines,2014,74
+114,Related Disciplines,2015,99
+114,Related Disciplines,2016,161
+114,Related Disciplines,2017,169
+114,Related Disciplines,2018,159
+114,Related Disciplines,2019,69
+114,Related Disciplines,2020,11
+114,Related Disciplines,2021,11
+114,Related Disciplines,2022,32
+114,Related Disciplines,2023,9
+114,Rome,2013,135
+114,Rome,2014,146
+114,Rome,2015,184
+114,Rome,2016,112
+114,Rome,2017,99
+114,Rome,2018,57
+114,Rome,2019,62
+114,Rome,2020,7
+114,Rome,2021,11
+114,Rome,2022,20
+114,Rome,2023,26
+114,Sculpture,2014,1
+114,Sculpture,2015,3
+114,Sculpture,2016,3
+114,Sculpture,2018,1
+114,Sources,2013,40
+114,Sources,2014,37
+114,Sources,2015,32
+114,Sources,2016,41
+114,Sources,2017,32
+114,Sources,2018,20
+114,Sources,2019,41
+114,Sources,2020,1
+114,Sources,2021,10
+114,Sources,2022,11
+114,Sources,2023,7
+114,Travel Literature,2013,14
+114,Travel Literature,2014,11
+114,Travel Literature,2015,8
+114,Travel Literature,2016,1
+114,Travel Literature,2017,14
+114,Travel Literature,2018,1
+114,Travel Literature,2019,6
+114,Travel Literature,2022,1
+114,Travel Literature,2023,2
+114,World Topography,2013,2
+114,World Topography,2014,1
