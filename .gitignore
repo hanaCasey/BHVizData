@@ -43,3 +43,5 @@ data/plots/.DS_Store
 data/plots/.DS_Store
 thesis/user_data/
 thesis/users.csv
+thesis/src/exp/similarity_cos.npz
+thesis/src/exp/arrangement_cos.npy
