@@ -45,3 +45,8 @@ thesis/user_data/
 thesis/users.csv
 thesis/src/exp/similarity_cos.npz
 thesis/src/exp/arrangement_cos.npy
+thesis/src/exp/tfidf_weighed_embedding.npy
+thesis/src/exp/full.csv
+thesis/src/exp/post.csv
+thesis/src/exp/pre.csv
+thesis/src/exp/tfidf_embedding.npy
