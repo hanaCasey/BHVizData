@@ -72,3 +72,5 @@ thesis/src/exp/embeddings/parametrized_count_embedding.npy
 thesis/src/exp/embeddings/parametrized_tfidf_embedding.npy
 thesis/src/exp/embeddings/tfidf_embedding.npy
 thesis/src/exp/embeddings/tfidf_weighed_embedding.npy
+thesis/src/__pycache__/common.cpython-310.pyc
+thesis/src/__pycache__/module.cpython-310.pyc

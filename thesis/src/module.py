@@ -13,11 +13,14 @@ SUBJECT_DICT = {'A': 'Manuals', 'B': 'Italian Art', 'C': 'Italian Artists', 'D':
 
 CUSTOM_COLOURS = [
     "#EA522B", "#EFD4D1", "#2A4978", "#8BDBE1", "#ECA19D", "#B48E36", "#EB84D6", "#B8BFCE", "#FAC73B", "#91C5E4",
-    "#6E8EAC", "#D2E7E0","#DAA47F", "#ECD096", "#6C9686", "#E6E10F", "#9D4B37", "#A3B49D", "#BDC920", "#DBE3E5", "#6A8B8D",
+    "#6E8EAC", "#D2E7E0","#DAA47F", "#ECD096", "#6C9686", "#9ACC8C", "#9D4B37", "#A3B49D", "#BDC920", "#DBE3E5", "#6A8B8D",
     "#EFB3D1", "#F6A1B4", "#5499C7", "#1C2833", "#F0B27A", "#2E7F7F", "#CB4335", "#4A235A"
 ]
 
 CUSTOM_CMAP = ListedColormap(CUSTOM_COLOURS)
+
+
+
 
 def get_subject(call_number):
     """
