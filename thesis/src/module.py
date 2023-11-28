@@ -1,5 +1,6 @@
 import ast
 import numpy as np
+import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.colors import ListedColormap
 import seaborn as sns
@@ -19,18 +20,19 @@ CUSTOM_COLOURS = [
 
 CUSTOM_CMAP = ListedColormap(CUSTOM_COLOURS)
 
-
-
+#########################################
+# DataFrame Processing Functions
+#########################################
 
 def get_subject(call_number):
     """
-    Returns the subject category given a book's call number.
+    Retrieves the subject category for a given book call number.
     
     Args:
-    call_number (str): The call number of the book.
+        call_number (str): The call number of the book.
     
     Returns:
-    str: The subject category corresponding to the call number.
+        str: The subject category corresponding to the call number.
     """
     for key, category in SUBJECT_DICT.items():
         if call_number.startswith(key):
@@ -39,19 +41,43 @@ def get_subject(call_number):
 
 def eval_as(df):
     """
-    Converts string representations of lists and dictionaries in DataFrame columns to actual lists and dictionaries.
+    Converts string representations in DataFrame columns to their respective 
+    literal structures (lists or dictionaries).
     
     Args:
-    df (DataFrame): The DataFrame with string representations of lists and dictionaries.
+        df (DataFrame): DataFrame with string representations to convert.
     
     Returns:
-    DataFrame: The modified DataFrame with actual lists and dictionaries.
+        DataFrame: DataFrame with converted structures.
     """
     df['yearly_frequency'] = df['yearly_frequency'].apply(ast.literal_eval)
     df['yearly_frequency_norm'] = df['yearly_frequency_norm'].apply(ast.literal_eval)
     df['users'] = df['users'].apply(ast.literal_eval)
     df['users_weighed'] = df['users_weighed'].apply(ast.literal_eval)
     return df
+
+
+def sum_loan_times(freq_dicts):
+    """
+    Aggregates loan times for each year.
+    
+    Args:
+        freq_dicts (list of dict): List of dictionaries with year as key and loan times as values.
+    
+    Returns:
+        dict: Dictionary with years as keys and aggregated loan times as values.
+    """
+    summed_times = {}
+    for freq_dict in freq_dicts:
+        for year, time in freq_dict.items():
+            summed_times.setdefault(year, 0)
+            summed_times[year] += time
+    return summed_times
+
+
+#########################################
+# PLotting Functions
+#########################################
 
 def plot_embedding(embedding, title):
     """
@@ -91,4 +117,139 @@ def plot_clustering(df, hdb):
 
     plt.text(0.05, 0.95, 'HDBSCAN clustering', transform=plt.gca().transAxes, fontsize=16, ha='left', fontname='Helvetica')
     plt.axis('off')
+    plt.show()
+
+
+def small_multiple_subject(df):
+    """
+    Plots a grid of scatter plots for each subject, showing their embeddings.
+    
+    Args:
+        df (DataFrame): DataFrame containing subject, x, and y columns for plotting.
+    """
+    unique_subjects = df['Subject'].unique()
+    n_subjects = len(unique_subjects)
+    num_cols = 6
+    num_rows = (n_subjects - 1) // num_cols + 1
+
+    fig, axes = plt.subplots(num_rows, num_cols, figsize=(20, 15), dpi=300)
+
+    for i, subject in enumerate(unique_subjects):
+        row, col = i // num_cols, i % num_cols
+        ax = axes[row, col]
+        ax.set_title(f'{subject}')
+
+        subject_data = df[df.Subject == subject]
+        x_values = subject_data['x'].to_list()
+        y_values = subject_data['y'].to_list()
+        color = CUSTOM_CMAP(i / (n_subjects - 1))
+        ax.scatter(x_values, y_values, s=2, c=color)
+        ax.axis("off")
+
+    # Hide empty subplots
+    for i in range(len(unique_subjects), num_rows * num_cols):
+        row, col = i // num_cols, i % num_cols
+        fig.delaxes(axes[row, col])
+
+    plt.tight_layout()
+    plt.subplots_adjust(top=0.85)
+    plt.show()
+
+
+def subject_heatmap(df):
+    """
+    Creates a heatmap showing the percentage of each subject in each cluster.
+    
+    Args:
+        df (DataFrame): DataFrame containing cluster, Subject, and frequency information.
+    """
+    subject_cluster_matrix = pd.crosstab(df['cluster'], df['Subject'], values=df['frequency'], aggfunc='sum').fillna(0)
+    ordered_subjects = [SUBJECT_DICT[key] for key in sorted(SUBJECT_DICT.keys())]
+    subject_cluster_matrix = subject_cluster_matrix[ordered_subjects]
+    cluster_totals = subject_cluster_matrix.sum(axis=1)
+    subject_cluster_percentage = subject_cluster_matrix.div(cluster_totals, axis=0)
+
+    plt.figure(figsize=(12, 8))
+    sns.heatmap(subject_cluster_percentage, xticklabels=True, vmax=1.0)
+    plt.title("Subject Percentage in Clusters")
+    plt.xlabel("Subject")
+    plt.ylabel("Cluster")
+    plt.xticks(rotation=90)
+    plt.show()
+
+
+def temporality_heatmap(df):
+    """
+    Creates a heatmap to visualize loan times for each cluster over the years.
+    
+    Args:
+        df (DataFrame): DataFrame containing cluster and yearly_frequency information.
+    """
+    cluster_frequencies = df.groupby('cluster')['yearly_frequency'].aggregate(sum_loan_times)
+    cluster_yearly_time_df = pd.DataFrame(cluster_frequencies.tolist()).fillna(0)
+    sorted_columns = sorted(cluster_yearly_time_df.columns)
+    cluster_yearly_time_df = cluster_yearly_time_df[sorted_columns]
+    cluster_total_loan_times = cluster_yearly_time_df.sum(axis=1)
+    cluster_yearly_percentage = cluster_yearly_time_df.div(cluster_total_loan_times, axis=0)
+
+    plt.figure(figsize=(12, 8))
+    sns.heatmap(cluster_yearly_percentage, vmax=1.0)
+    plt.title("Normalized Loan Time by Cluster and Year")
+    plt.xlabel("Year")
+    plt.ylabel("Cluster")
+    plt.show()
+
+
+def language_heatmap(df):
+    """
+    Creates a heatmap showing the percentage of different languages per cluster.
+    
+    Args:
+        df (DataFrame): DataFrame containing cluster, language, and frequency information.
+    """
+    lang_cluster_matrix = pd.crosstab(df['cluster'], df['lang'], values=df['frequency'], aggfunc='sum').fillna(0)
+    cluster_totals = lang_cluster_matrix.sum(axis=1)
+    lang_cluster_percentage = lang_cluster_matrix.div(cluster_totals, axis=0)
+
+    plt.figure(figsize=(12, 8))
+    sns.heatmap(lang_cluster_percentage, xticklabels=True, vmax=1.0)
+    plt.title("Percentage of languages per cluster")
+    plt.xlabel("Language")
+    plt.ylabel("Cluster")
+    plt.xticks(rotation=90)
+    plt.show()
+
+def plot_loan_density(df):
+    """
+    Plots loan density across different years using scatter and KDE plots.
+    
+    Args:
+        df (DataFrame): DataFrame containing x and y coordinates and the yearly frequency of loans
+    """
+    unique_years = np.arange(2013, 2024)
+
+    num_rows = (len(unique_years) - 1) // 4 + 1 # subplots
+    fig, axes = plt.subplots(num_rows, 4, figsize=(24, 6 * num_rows), dpi=300)
+
+    for i, year in enumerate(unique_years):
+        row, col = i // 4, i % 4
+        ax = axes[row, col]
+        ax.set_title(f'{year}')
+
+        year_data = df[df['yearly_frequency_norm'].apply(lambda norm: norm.get(year, 0) > 0)]
+        x_values = year_data['x'].to_list()
+        y_values = year_data['y'].to_list()
+        frequencies = [row['yearly_frequency_norm'].get(year, 0) for _, row in year_data.iterrows()]
+
+        sc = ax.scatter(x_values, y_values, s=5 ,alpha = 0.5)
+        sns.kdeplot(x=x_values, y=y_values, weights=frequencies, ax=ax, cmap="Reds", fill=True, alpha=0.7)
+        ax.axis("off")
+
+    # Hide empty subplots
+    for i in range(len(unique_years), num_rows * 4):
+        row, col = i // 4, i % 4
+        fig.delaxes(axes[row, col])
+
+    plt.tight_layout()
+    plt.subplots_adjust(top=0.85)
     plt.show()
