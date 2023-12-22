@@ -1,305 +1,563 @@
-Subject,Z36H_LOAN_DATE,count
-Applied Arts,2013,239
-Applied Arts,2014,291
-Applied Arts,2015,218
-Applied Arts,2016,211
-Applied Arts,2017,238
-Applied Arts,2018,110
-Applied Arts,2019,66
-Applied Arts,2020,36
-Applied Arts,2021,40
-Applied Arts,2022,67
-Applied Arts,2023,63
-Architecture,2013,374
-Architecture,2014,662
-Architecture,2015,911
-Architecture,2016,695
-Architecture,2017,632
-Architecture,2018,338
-Architecture,2019,178
-Architecture,2020,62
-Architecture,2021,87
-Architecture,2022,102
-Architecture,2023,130
-Art in General,2013,1538
-Art in General,2014,1778
-Art in General,2015,1750
-Art in General,2016,1849
-Art in General,2017,1453
-Art in General,2018,1448
-Art in General,2019,1112
-Art in General,2020,304
-Art in General,2021,364
-Art in General,2022,510
-Art in General,2023,517
-Catalogues,2013,6958
-Catalogues,2014,7743
-Catalogues,2015,7514
-Catalogues,2016,6968
-Catalogues,2017,6451
-Catalogues,2018,4601
-Catalogues,2019,2745
-Catalogues,2020,449
-Catalogues,2021,885
-Catalogues,2022,1446
-Catalogues,2023,1282
-"Collecting Art, Museum Studies",2013,381
-"Collecting Art, Museum Studies",2014,312
-"Collecting Art, Museum Studies",2015,380
-"Collecting Art, Museum Studies",2016,543
-"Collecting Art, Museum Studies",2017,270
-"Collecting Art, Museum Studies",2018,272
-"Collecting Art, Museum Studies",2019,102
-"Collecting Art, Museum Studies",2020,18
-"Collecting Art, Museum Studies",2021,67
-"Collecting Art, Museum Studies",2022,123
-"Collecting Art, Museum Studies",2023,128
-Commemorative and Collected Writings,2013,1839
-Commemorative and Collected Writings,2014,2396
-Commemorative and Collected Writings,2015,2477
-Commemorative and Collected Writings,2016,2298
-Commemorative and Collected Writings,2017,2114
-Commemorative and Collected Writings,2018,1740
-Commemorative and Collected Writings,2019,1300
-Commemorative and Collected Writings,2020,153
-Commemorative and Collected Writings,2021,227
-Commemorative and Collected Writings,2022,437
-Commemorative and Collected Writings,2023,309
-Congress Publications,2013,3375
-Congress Publications,2014,3512
-Congress Publications,2015,3796
-Congress Publications,2016,3638
-Congress Publications,2017,3094
-Congress Publications,2018,2289
-Congress Publications,2019,1489
-Congress Publications,2020,162
-Congress Publications,2021,289
-Congress Publications,2022,497
-Congress Publications,2023,339
-Cultural Institutions,2013,323
-Cultural Institutions,2014,475
-Cultural Institutions,2015,753
-Cultural Institutions,2016,623
-Cultural Institutions,2017,605
-Cultural Institutions,2018,348
-Cultural Institutions,2019,235
-Cultural Institutions,2020,35
-Cultural Institutions,2021,90
-Cultural Institutions,2022,123
-Cultural Institutions,2023,116
-European Topography,2013,321
-European Topography,2014,506
-European Topography,2015,520
-European Topography,2016,442
-European Topography,2017,612
-European Topography,2018,539
-European Topography,2019,236
-European Topography,2020,63
-European Topography,2021,146
-European Topography,2022,130
-European Topography,2023,118
-Graphic Arts,2013,238
-Graphic Arts,2014,182
-Graphic Arts,2015,171
-Graphic Arts,2016,204
-Graphic Arts,2017,222
-Graphic Arts,2018,208
-Graphic Arts,2019,151
-Graphic Arts,2020,31
-Graphic Arts,2021,77
-Graphic Arts,2022,130
-Graphic Arts,2023,52
-Iconography,2013,2766
-Iconography,2014,3120
-Iconography,2015,2412
-Iconography,2016,2790
-Iconography,2017,2503
-Iconography,2018,1979
-Iconography,2019,1461
-Iconography,2020,174
-Iconography,2021,337
-Iconography,2022,534
-Iconography,2023,578
-Italian Art,2013,5086
-Italian Art,2014,5633
-Italian Art,2015,5353
-Italian Art,2016,5486
-Italian Art,2017,4491
-Italian Art,2018,3549
-Italian Art,2019,1838
-Italian Art,2020,359
-Italian Art,2021,647
-Italian Art,2022,792
-Italian Art,2023,656
-Italian Artists,2013,11832
-Italian Artists,2014,11754
-Italian Artists,2015,12016
-Italian Artists,2016,12103
-Italian Artists,2017,10513
-Italian Artists,2018,8339
-Italian Artists,2019,5166
-Italian Artists,2020,604
-Italian Artists,2021,1338
-Italian Artists,2022,1526
-Italian Artists,2023,1509
-Italian Topography,2013,5829
-Italian Topography,2014,6011
-Italian Topography,2015,5443
-Italian Topography,2016,5609
-Italian Topography,2017,4826
-Italian Topography,2018,3770
-Italian Topography,2019,2037
-Italian Topography,2020,323
-Italian Topography,2021,605
-Italian Topography,2022,910
-Italian Topography,2023,806
-Manuals,2013,1359
-Manuals,2014,1187
-Manuals,2015,887
-Manuals,2016,877
-Manuals,2017,591
-Manuals,2018,641
-Manuals,2019,412
-Manuals,2020,63
-Manuals,2021,83
-Manuals,2022,91
-Manuals,2023,119
-Manuscript Illumination,2013,99
-Manuscript Illumination,2014,119
-Manuscript Illumination,2015,112
-Manuscript Illumination,2016,178
-Manuscript Illumination,2017,132
-Manuscript Illumination,2018,131
-Manuscript Illumination,2019,107
-Manuscript Illumination,2020,15
-Manuscript Illumination,2021,20
-Manuscript Illumination,2022,19
-Manuscript Illumination,2023,36
-Non-Italian Artists,2013,2671
-Non-Italian Artists,2014,2690
-Non-Italian Artists,2015,2669
-Non-Italian Artists,2016,2129
-Non-Italian Artists,2017,2007
-Non-Italian Artists,2018,1813
-Non-Italian Artists,2019,1563
-Non-Italian Artists,2020,177
-Non-Italian Artists,2021,341
-Non-Italian Artists,2022,444
-Non-Italian Artists,2023,507
-Ornament,2013,23
-Ornament,2014,58
-Ornament,2015,12
-Ornament,2016,29
-Ornament,2017,82
-Ornament,2018,30
-Ornament,2019,24
-Ornament,2020,3
-Ornament,2021,13
-Ornament,2022,8
-Ornament,2023,9
-Painting,2013,242
-Painting,2014,225
-Painting,2015,283
-Painting,2016,288
-Painting,2017,243
-Painting,2018,192
-Painting,2019,124
-Painting,2020,15
-Painting,2021,47
-Painting,2022,46
-Painting,2023,34
-Periodicals,2013,10304
-Periodicals,2014,11488
-Periodicals,2015,11462
-Periodicals,2016,9937
-Periodicals,2017,7821
-Periodicals,2018,6619
-Periodicals,2019,4298
-Periodicals,2020,417
-Periodicals,2021,708
-Periodicals,2022,1073
-Periodicals,2023,1156
-Registers of Artistic Monuments,2013,10
-Registers of Artistic Monuments,2014,8
-Registers of Artistic Monuments,2015,39
-Registers of Artistic Monuments,2016,3
-Registers of Artistic Monuments,2017,11
-Registers of Artistic Monuments,2018,2
-Registers of Artistic Monuments,2019,2
-Registers of Artistic Monuments,2021,2
-Registers of Artistic Monuments,2022,1
-Related Disciplines,2013,2798
-Related Disciplines,2014,3272
-Related Disciplines,2015,3793
-Related Disciplines,2016,3970
-Related Disciplines,2017,3790
-Related Disciplines,2018,3590
-Related Disciplines,2019,2380
-Related Disciplines,2020,433
-Related Disciplines,2021,933
-Related Disciplines,2022,1272
-Related Disciplines,2023,765
-Rome,2013,7037
-Rome,2014,8107
-Rome,2015,9119
-Rome,2016,7706
-Rome,2017,6658
-Rome,2018,5536
-Rome,2019,3646
-Rome,2020,324
-Rome,2021,880
-Rome,2022,1076
-Rome,2023,1035
-Sculpture,2013,91
-Sculpture,2014,162
-Sculpture,2015,182
-Sculpture,2016,95
-Sculpture,2017,93
-Sculpture,2018,78
-Sculpture,2019,71
-Sculpture,2020,26
-Sculpture,2021,16
-Sculpture,2022,40
-Sculpture,2023,17
-Sources,2013,1493
-Sources,2014,1433
-Sources,2015,1675
-Sources,2016,1597
-Sources,2017,1621
-Sources,2018,1100
-Sources,2019,709
-Sources,2020,111
-Sources,2021,267
-Sources,2022,348
-Sources,2023,221
-Travel Literature,2013,360
-Travel Literature,2014,295
-Travel Literature,2015,267
-Travel Literature,2016,265
-Travel Literature,2017,262
-Travel Literature,2018,232
-Travel Literature,2019,165
-Travel Literature,2020,16
-Travel Literature,2021,30
-Travel Literature,2022,208
-Travel Literature,2023,40
-Unknown,2013,13
-Unknown,2014,21
-Unknown,2015,15
-Unknown,2016,20
-Unknown,2017,22
-Unknown,2018,7
-Unknown,2019,2
-Unknown,2022,1
-Unknown,2023,1
-World Topography,2013,69
-World Topography,2014,42
-World Topography,2015,57
-World Topography,2016,86
-World Topography,2017,42
-World Topography,2018,237
-World Topography,2019,27
-World Topography,2020,11
-World Topography,2021,62
-World Topography,2022,11
-World Topography,2023,9
+Subject,Z36H_LOAN_DATE,usertype,count
+Applied Arts,2013,External,185
+Applied Arts,2013,Internal,54
+Applied Arts,2014,External,224
+Applied Arts,2014,Internal,67
+Applied Arts,2015,External,155
+Applied Arts,2015,Internal,63
+Applied Arts,2016,External,164
+Applied Arts,2016,Internal,47
+Applied Arts,2017,External,105
+Applied Arts,2017,Internal,133
+Applied Arts,2018,External,75
+Applied Arts,2018,Internal,35
+Applied Arts,2019,External,17
+Applied Arts,2019,Internal,49
+Applied Arts,2020,Internal,36
+Applied Arts,2021,Internal,40
+Applied Arts,2022,External,1
+Applied Arts,2022,Internal,66
+Applied Arts,2023,Internal,63
+Architecture,2013,External,242
+Architecture,2013,Internal,132
+Architecture,2014,External,516
+Architecture,2014,Internal,146
+Architecture,2015,External,699
+Architecture,2015,Internal,212
+Architecture,2016,External,533
+Architecture,2016,Internal,162
+Architecture,2017,External,417
+Architecture,2017,Internal,215
+Architecture,2018,External,209
+Architecture,2018,Internal,129
+Architecture,2019,External,67
+Architecture,2019,Internal,111
+Architecture,2020,Internal,62
+Architecture,2021,Internal,87
+Architecture,2022,External,4
+Architecture,2022,Internal,98
+Architecture,2023,External,1
+Architecture,2023,Internal,129
+Art in General,2013,External,1128
+Art in General,2013,Internal,410
+Art in General,2014,External,1335
+Art in General,2014,Internal,443
+Art in General,2015,External,1294
+Art in General,2015,Internal,456
+Art in General,2016,External,1244
+Art in General,2016,Internal,605
+Art in General,2017,External,824
+Art in General,2017,Internal,629
+Art in General,2018,External,764
+Art in General,2018,Internal,684
+Art in General,2019,External,471
+Art in General,2019,Internal,641
+Art in General,2020,Internal,304
+Art in General,2021,Internal,364
+Art in General,2022,External,12
+Art in General,2022,Internal,498
+Art in General,2023,External,6
+Art in General,2023,Internal,511
+Catalogues,2013,External,6023
+Catalogues,2013,Internal,935
+Catalogues,2014,External,6824
+Catalogues,2014,Internal,919
+Catalogues,2015,External,6191
+Catalogues,2015,Internal,1323
+Catalogues,2016,External,5397
+Catalogues,2016,Internal,1571
+Catalogues,2017,External,4345
+Catalogues,2017,Internal,2106
+Catalogues,2018,External,2964
+Catalogues,2018,Internal,1637
+Catalogues,2019,External,1538
+Catalogues,2019,Internal,1207
+Catalogues,2020,External,7
+Catalogues,2020,Internal,442
+Catalogues,2021,External,8
+Catalogues,2021,Internal,877
+Catalogues,2022,External,56
+Catalogues,2022,Internal,1390
+Catalogues,2023,External,19
+Catalogues,2023,Internal,1263
+"Collecting Art, Museum Studies",2013,External,289
+"Collecting Art, Museum Studies",2013,Internal,92
+"Collecting Art, Museum Studies",2014,External,265
+"Collecting Art, Museum Studies",2014,Internal,47
+"Collecting Art, Museum Studies",2015,External,286
+"Collecting Art, Museum Studies",2015,Internal,94
+"Collecting Art, Museum Studies",2016,External,362
+"Collecting Art, Museum Studies",2016,Internal,181
+"Collecting Art, Museum Studies",2017,External,149
+"Collecting Art, Museum Studies",2017,Internal,121
+"Collecting Art, Museum Studies",2018,External,155
+"Collecting Art, Museum Studies",2018,Internal,117
+"Collecting Art, Museum Studies",2019,External,50
+"Collecting Art, Museum Studies",2019,Internal,52
+"Collecting Art, Museum Studies",2020,Internal,18
+"Collecting Art, Museum Studies",2021,External,1
+"Collecting Art, Museum Studies",2021,Internal,66
+"Collecting Art, Museum Studies",2022,External,4
+"Collecting Art, Museum Studies",2022,Internal,119
+"Collecting Art, Museum Studies",2023,Internal,128
+Commemorative and Collected Writings,2013,External,1543
+Commemorative and Collected Writings,2013,Internal,296
+Commemorative and Collected Writings,2014,External,2083
+Commemorative and Collected Writings,2014,Internal,313
+Commemorative and Collected Writings,2015,External,2038
+Commemorative and Collected Writings,2015,Internal,439
+Commemorative and Collected Writings,2016,External,1804
+Commemorative and Collected Writings,2016,Internal,494
+Commemorative and Collected Writings,2017,External,1449
+Commemorative and Collected Writings,2017,Internal,665
+Commemorative and Collected Writings,2018,External,1087
+Commemorative and Collected Writings,2018,Internal,653
+Commemorative and Collected Writings,2019,External,813
+Commemorative and Collected Writings,2019,Internal,487
+Commemorative and Collected Writings,2020,External,1
+Commemorative and Collected Writings,2020,Internal,152
+Commemorative and Collected Writings,2021,External,5
+Commemorative and Collected Writings,2021,Internal,222
+Commemorative and Collected Writings,2022,External,14
+Commemorative and Collected Writings,2022,Internal,423
+Commemorative and Collected Writings,2023,External,2
+Commemorative and Collected Writings,2023,Internal,307
+Congress Publications,2013,External,2734
+Congress Publications,2013,Internal,641
+Congress Publications,2014,External,2989
+Congress Publications,2014,Internal,523
+Congress Publications,2015,External,3104
+Congress Publications,2015,Internal,692
+Congress Publications,2016,External,2853
+Congress Publications,2016,Internal,785
+Congress Publications,2017,External,2074
+Congress Publications,2017,Internal,1020
+Congress Publications,2018,External,1584
+Congress Publications,2018,Internal,705
+Congress Publications,2019,External,952
+Congress Publications,2019,Internal,537
+Congress Publications,2020,Internal,162
+Congress Publications,2021,External,7
+Congress Publications,2021,Internal,282
+Congress Publications,2022,External,18
+Congress Publications,2022,Internal,479
+Congress Publications,2023,External,5
+Congress Publications,2023,Internal,334
+Cultural Institutions,2013,External,225
+Cultural Institutions,2013,Internal,98
+Cultural Institutions,2014,External,354
+Cultural Institutions,2014,Internal,121
+Cultural Institutions,2015,External,488
+Cultural Institutions,2015,Internal,265
+Cultural Institutions,2016,External,466
+Cultural Institutions,2016,Internal,157
+Cultural Institutions,2017,External,376
+Cultural Institutions,2017,Internal,229
+Cultural Institutions,2018,External,204
+Cultural Institutions,2018,Internal,144
+Cultural Institutions,2019,External,93
+Cultural Institutions,2019,Internal,142
+Cultural Institutions,2020,Internal,35
+Cultural Institutions,2021,Internal,90
+Cultural Institutions,2022,External,1
+Cultural Institutions,2022,Internal,122
+Cultural Institutions,2023,Internal,116
+European Topography,2013,External,199
+European Topography,2013,Internal,122
+European Topography,2014,External,359
+European Topography,2014,Internal,147
+European Topography,2015,External,363
+European Topography,2015,Internal,157
+European Topography,2016,External,305
+European Topography,2016,Internal,137
+European Topography,2017,External,334
+European Topography,2017,Internal,278
+European Topography,2018,External,286
+European Topography,2018,Internal,253
+European Topography,2019,External,78
+European Topography,2019,Internal,158
+European Topography,2020,Internal,63
+European Topography,2021,Internal,146
+European Topography,2022,Internal,130
+European Topography,2023,Internal,118
+Graphic Arts,2013,External,158
+Graphic Arts,2013,Internal,80
+Graphic Arts,2014,External,142
+Graphic Arts,2014,Internal,40
+Graphic Arts,2015,External,131
+Graphic Arts,2015,Internal,40
+Graphic Arts,2016,External,152
+Graphic Arts,2016,Internal,52
+Graphic Arts,2017,External,99
+Graphic Arts,2017,Internal,123
+Graphic Arts,2018,External,122
+Graphic Arts,2018,Internal,86
+Graphic Arts,2019,External,78
+Graphic Arts,2019,Internal,73
+Graphic Arts,2020,Internal,31
+Graphic Arts,2021,External,1
+Graphic Arts,2021,Internal,76
+Graphic Arts,2022,External,5
+Graphic Arts,2022,Internal,125
+Graphic Arts,2023,Internal,52
+Iconography,2013,External,2213
+Iconography,2013,Internal,553
+Iconography,2014,External,2684
+Iconography,2014,Internal,436
+Iconography,2015,External,1946
+Iconography,2015,Internal,466
+Iconography,2016,External,2242
+Iconography,2016,Internal,548
+Iconography,2017,External,1714
+Iconography,2017,Internal,789
+Iconography,2018,External,1348
+Iconography,2018,Internal,631
+Iconography,2019,External,749
+Iconography,2019,Internal,712
+Iconography,2020,Internal,174
+Iconography,2021,External,5
+Iconography,2021,Internal,332
+Iconography,2022,External,14
+Iconography,2022,Internal,520
+Iconography,2023,External,5
+Iconography,2023,Internal,573
+Italian Art,2013,External,4360
+Italian Art,2013,Internal,726
+Italian Art,2014,External,4915
+Italian Art,2014,Internal,718
+Italian Art,2015,External,4582
+Italian Art,2015,Internal,771
+Italian Art,2016,External,4375
+Italian Art,2016,Internal,1111
+Italian Art,2017,External,2950
+Italian Art,2017,Internal,1541
+Italian Art,2018,External,2385
+Italian Art,2018,Internal,1164
+Italian Art,2019,External,893
+Italian Art,2019,Internal,945
+Italian Art,2020,External,1
+Italian Art,2020,Internal,358
+Italian Art,2021,External,4
+Italian Art,2021,Internal,643
+Italian Art,2022,External,22
+Italian Art,2022,Internal,770
+Italian Art,2023,External,1
+Italian Art,2023,Internal,655
+Italian Artists,2013,External,10220
+Italian Artists,2013,Internal,1612
+Italian Artists,2014,External,10024
+Italian Artists,2014,Internal,1730
+Italian Artists,2015,External,10329
+Italian Artists,2015,Internal,1687
+Italian Artists,2016,External,9910
+Italian Artists,2016,Internal,2193
+Italian Artists,2017,External,7615
+Italian Artists,2017,Internal,2898
+Italian Artists,2018,External,5811
+Italian Artists,2018,Internal,2528
+Italian Artists,2019,External,2727
+Italian Artists,2019,Internal,2439
+Italian Artists,2020,External,7
+Italian Artists,2020,Internal,597
+Italian Artists,2021,External,11
+Italian Artists,2021,Internal,1327
+Italian Artists,2022,External,58
+Italian Artists,2022,Internal,1468
+Italian Artists,2023,External,25
+Italian Artists,2023,Internal,1484
+Italian Topography,2013,External,4634
+Italian Topography,2013,Internal,1195
+Italian Topography,2014,External,5191
+Italian Topography,2014,Internal,820
+Italian Topography,2015,External,4579
+Italian Topography,2015,Internal,864
+Italian Topography,2016,External,4270
+Italian Topography,2016,Internal,1339
+Italian Topography,2017,External,3182
+Italian Topography,2017,Internal,1644
+Italian Topography,2018,External,2423
+Italian Topography,2018,Internal,1347
+Italian Topography,2019,External,950
+Italian Topography,2019,Internal,1087
+Italian Topography,2020,External,3
+Italian Topography,2020,Internal,320
+Italian Topography,2021,External,13
+Italian Topography,2021,Internal,592
+Italian Topography,2022,External,16
+Italian Topography,2022,Internal,894
+Italian Topography,2023,External,4
+Italian Topography,2023,Internal,802
+Manuals,2013,External,1197
+Manuals,2013,Internal,162
+Manuals,2014,External,1109
+Manuals,2014,Internal,78
+Manuals,2015,External,728
+Manuals,2015,Internal,159
+Manuals,2016,External,667
+Manuals,2016,Internal,210
+Manuals,2017,External,401
+Manuals,2017,Internal,190
+Manuals,2018,External,554
+Manuals,2018,Internal,87
+Manuals,2019,External,173
+Manuals,2019,Internal,239
+Manuals,2020,Internal,63
+Manuals,2021,Internal,83
+Manuals,2022,External,6
+Manuals,2022,Internal,85
+Manuals,2023,External,3
+Manuals,2023,Internal,116
+Manuscript Illumination,2013,External,88
+Manuscript Illumination,2013,Internal,11
+Manuscript Illumination,2014,External,99
+Manuscript Illumination,2014,Internal,20
+Manuscript Illumination,2015,External,91
+Manuscript Illumination,2015,Internal,21
+Manuscript Illumination,2016,External,160
+Manuscript Illumination,2016,Internal,18
+Manuscript Illumination,2017,External,106
+Manuscript Illumination,2017,Internal,26
+Manuscript Illumination,2018,External,100
+Manuscript Illumination,2018,Internal,31
+Manuscript Illumination,2019,External,41
+Manuscript Illumination,2019,Internal,66
+Manuscript Illumination,2020,External,1
+Manuscript Illumination,2020,Internal,14
+Manuscript Illumination,2021,External,1
+Manuscript Illumination,2021,Internal,19
+Manuscript Illumination,2022,External,3
+Manuscript Illumination,2022,Internal,16
+Manuscript Illumination,2023,Internal,36
+Non-Italian Artists,2013,External,2162
+Non-Italian Artists,2013,Internal,509
+Non-Italian Artists,2014,External,2143
+Non-Italian Artists,2014,Internal,547
+Non-Italian Artists,2015,External,2014
+Non-Italian Artists,2015,Internal,655
+Non-Italian Artists,2016,External,1583
+Non-Italian Artists,2016,Internal,546
+Non-Italian Artists,2017,External,1347
+Non-Italian Artists,2017,Internal,660
+Non-Italian Artists,2018,External,1065
+Non-Italian Artists,2018,Internal,748
+Non-Italian Artists,2019,External,650
+Non-Italian Artists,2019,Internal,913
+Non-Italian Artists,2020,External,2
+Non-Italian Artists,2020,Internal,175
+Non-Italian Artists,2021,Internal,341
+Non-Italian Artists,2022,External,13
+Non-Italian Artists,2022,Internal,431
+Non-Italian Artists,2023,External,13
+Non-Italian Artists,2023,Internal,494
+Ornament,2013,External,21
+Ornament,2013,Internal,2
+Ornament,2014,External,50
+Ornament,2014,Internal,8
+Ornament,2015,External,9
+Ornament,2015,Internal,3
+Ornament,2016,External,19
+Ornament,2016,Internal,10
+Ornament,2017,External,72
+Ornament,2017,Internal,10
+Ornament,2018,External,14
+Ornament,2018,Internal,16
+Ornament,2019,External,10
+Ornament,2019,Internal,14
+Ornament,2020,Internal,3
+Ornament,2021,Internal,13
+Ornament,2022,Internal,8
+Ornament,2023,Internal,9
+Painting,2013,External,196
+Painting,2013,Internal,46
+Painting,2014,External,180
+Painting,2014,Internal,45
+Painting,2015,External,226
+Painting,2015,Internal,57
+Painting,2016,External,204
+Painting,2016,Internal,84
+Painting,2017,External,144
+Painting,2017,Internal,99
+Painting,2018,External,128
+Painting,2018,Internal,64
+Painting,2019,External,42
+Painting,2019,Internal,82
+Painting,2020,Internal,15
+Painting,2021,Internal,47
+Painting,2022,External,2
+Painting,2022,Internal,44
+Painting,2023,Internal,34
+Periodicals,2013,External,8723
+Periodicals,2013,Internal,1581
+Periodicals,2014,External,10134
+Periodicals,2014,Internal,1354
+Periodicals,2015,External,9658
+Periodicals,2015,Internal,1804
+Periodicals,2016,External,8107
+Periodicals,2016,Internal,1830
+Periodicals,2017,External,5591
+Periodicals,2017,Internal,2230
+Periodicals,2018,External,4396
+Periodicals,2018,Internal,2223
+Periodicals,2019,External,2506
+Periodicals,2019,Internal,1792
+Periodicals,2020,Internal,417
+Periodicals,2021,External,11
+Periodicals,2021,Internal,697
+Periodicals,2022,External,30
+Periodicals,2022,Internal,1043
+Periodicals,2023,External,9
+Periodicals,2023,Internal,1147
+Registers of Artistic Monuments,2013,External,7
+Registers of Artistic Monuments,2013,Internal,3
+Registers of Artistic Monuments,2014,External,5
+Registers of Artistic Monuments,2014,Internal,3
+Registers of Artistic Monuments,2015,External,26
+Registers of Artistic Monuments,2015,Internal,13
+Registers of Artistic Monuments,2016,External,1
+Registers of Artistic Monuments,2016,Internal,2
+Registers of Artistic Monuments,2017,External,9
+Registers of Artistic Monuments,2017,Internal,2
+Registers of Artistic Monuments,2018,External,2
+Registers of Artistic Monuments,2019,External,1
+Registers of Artistic Monuments,2019,Internal,1
+Registers of Artistic Monuments,2021,Internal,2
+Registers of Artistic Monuments,2022,Internal,1
+Related Disciplines,2013,External,1753
+Related Disciplines,2013,Internal,1045
+Related Disciplines,2014,External,2279
+Related Disciplines,2014,Internal,993
+Related Disciplines,2015,External,2562
+Related Disciplines,2015,Internal,1231
+Related Disciplines,2016,External,2660
+Related Disciplines,2016,Internal,1310
+Related Disciplines,2017,External,2328
+Related Disciplines,2017,Internal,1462
+Related Disciplines,2018,External,1987
+Related Disciplines,2018,Internal,1603
+Related Disciplines,2019,External,1204
+Related Disciplines,2019,Internal,1176
+Related Disciplines,2020,External,3
+Related Disciplines,2020,Internal,430
+Related Disciplines,2021,External,3
+Related Disciplines,2021,Internal,930
+Related Disciplines,2022,External,9
+Related Disciplines,2022,Internal,1263
+Related Disciplines,2023,External,2
+Related Disciplines,2023,Internal,763
+Rome,2013,External,5752
+Rome,2013,Internal,1285
+Rome,2014,External,7009
+Rome,2014,Internal,1098
+Rome,2015,External,7545
+Rome,2015,Internal,1574
+Rome,2016,External,6216
+Rome,2016,Internal,1490
+Rome,2017,External,4606
+Rome,2017,Internal,2052
+Rome,2018,External,3488
+Rome,2018,Internal,2048
+Rome,2019,External,1918
+Rome,2019,Internal,1728
+Rome,2020,External,7
+Rome,2020,Internal,317
+Rome,2021,External,13
+Rome,2021,Internal,867
+Rome,2022,External,49
+Rome,2022,Internal,1027
+Rome,2023,External,6
+Rome,2023,Internal,1029
+Sculpture,2013,External,68
+Sculpture,2013,Internal,23
+Sculpture,2014,External,141
+Sculpture,2014,Internal,21
+Sculpture,2015,External,124
+Sculpture,2015,Internal,58
+Sculpture,2016,External,71
+Sculpture,2016,Internal,24
+Sculpture,2017,External,44
+Sculpture,2017,Internal,49
+Sculpture,2018,External,43
+Sculpture,2018,Internal,35
+Sculpture,2019,External,17
+Sculpture,2019,Internal,54
+Sculpture,2020,Internal,26
+Sculpture,2021,Internal,16
+Sculpture,2022,Internal,40
+Sculpture,2023,Internal,17
+Sources,2013,External,1069
+Sources,2013,Internal,424
+Sources,2014,External,1132
+Sources,2014,Internal,301
+Sources,2015,External,1349
+Sources,2015,Internal,326
+Sources,2016,External,1144
+Sources,2016,Internal,453
+Sources,2017,External,1072
+Sources,2017,Internal,549
+Sources,2018,External,683
+Sources,2018,Internal,417
+Sources,2019,External,298
+Sources,2019,Internal,411
+Sources,2020,External,6
+Sources,2020,Internal,105
+Sources,2021,External,3
+Sources,2021,Internal,264
+Sources,2022,External,3
+Sources,2022,Internal,345
+Sources,2023,Internal,221
+Travel Literature,2013,External,277
+Travel Literature,2013,Internal,83
+Travel Literature,2014,External,256
+Travel Literature,2014,Internal,39
+Travel Literature,2015,External,244
+Travel Literature,2015,Internal,23
+Travel Literature,2016,External,205
+Travel Literature,2016,Internal,60
+Travel Literature,2017,External,207
+Travel Literature,2017,Internal,55
+Travel Literature,2018,External,157
+Travel Literature,2018,Internal,75
+Travel Literature,2019,External,88
+Travel Literature,2019,Internal,77
+Travel Literature,2020,External,1
+Travel Literature,2020,Internal,15
+Travel Literature,2021,Internal,30
+Travel Literature,2022,External,4
+Travel Literature,2022,Internal,204
+Travel Literature,2023,Internal,40
+Unknown,2013,External,11
+Unknown,2013,Internal,2
+Unknown,2014,External,17
+Unknown,2014,Internal,4
+Unknown,2015,External,12
+Unknown,2015,Internal,3
+Unknown,2016,External,14
+Unknown,2016,Internal,6
+Unknown,2017,External,18
+Unknown,2017,Internal,4
+Unknown,2018,External,5
+Unknown,2018,Internal,2
+Unknown,2019,External,1
+Unknown,2019,Internal,1
+Unknown,2022,Internal,1
+Unknown,2023,Internal,1
+World Topography,2013,External,56
+World Topography,2013,Internal,13
+World Topography,2014,External,40
+World Topography,2014,Internal,2
+World Topography,2015,External,44
+World Topography,2015,Internal,13
+World Topography,2016,External,55
+World Topography,2016,Internal,31
+World Topography,2017,External,32
+World Topography,2017,Internal,10
+World Topography,2018,External,124
+World Topography,2018,Internal,113
+World Topography,2019,External,16
+World Topography,2019,Internal,11
+World Topography,2020,Internal,11
+World Topography,2021,Internal,62
+World Topography,2022,External,1
+World Topography,2022,Internal,10
+World Topography,2023,External,1
+World Topography,2023,Internal,8
