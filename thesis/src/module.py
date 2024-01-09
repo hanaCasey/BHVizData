@@ -113,9 +113,9 @@ def plot_clustering(df, hdb):
             cluster_indices = np.where(hdb.labels_ == cluster_number)[0]
             cluster_x = df.iloc[cluster_indices]['x'].mean()
             cluster_y = df.iloc[cluster_indices]['y'].mean()
-            plt.text(cluster_x, cluster_y, str(cluster_number), fontsize=8, ha='center')
+            plt.text(cluster_x, cluster_y, str(cluster_number), fontsize=16, ha='center')
 
-    plt.text(0.05, 0.95, 'HDBSCAN clustering', transform=plt.gca().transAxes, fontsize=16, ha='left', fontname='Helvetica')
+    # plt.text(0.05, 0.95, 'HDBSCAN clustering', transform=plt.gca().transAxes, fontsize=16, ha='left', fontname='Helvetica')
     plt.axis('off')
     plt.show()
 
@@ -129,10 +129,11 @@ def small_multiple_subject(df):
     """
     unique_subjects = df['Subject'].unique()
     n_subjects = len(unique_subjects)
-    num_cols = 6
+
+    num_cols = 4
     num_rows = (n_subjects - 1) // num_cols + 1
 
-    fig, axes = plt.subplots(num_rows, num_cols, figsize=(20, 15), dpi=300)
+    fig, axes = plt.subplots(num_rows, num_cols, figsize=(15, 40), dpi=300)
 
     for i, subject in enumerate(unique_subjects):
         row, col = i // num_cols, i % num_cols
@@ -226,15 +227,17 @@ def plot_loan_density(df):
     Args:
         df (DataFrame): DataFrame containing x and y coordinates and the yearly frequency of loans
     """
+    
     unique_years = np.arange(2013, 2024)
 
-    num_rows = (len(unique_years) - 1) // 4 + 1 # subplots
-    fig, axes = plt.subplots(num_rows, 4, figsize=(24, 6 * num_rows), dpi=300)
+    num_cols = 2
+    num_rows = (len(unique_years) - 1) // num_cols + 1 # subplots
+    fig, axes = plt.subplots(num_rows, num_cols, figsize=(15, 6 * num_rows), dpi=300)
 
     for i, year in enumerate(unique_years):
-        row, col = i // 4, i % 4
+        row, col = i // num_cols, i % num_cols
         ax = axes[row, col]
-        ax.set_title(f'{year}')
+        ax.set_title(f'{year}', fontdict={'fontsize':16})
 
         year_data = df[df['yearly_frequency_norm'].apply(lambda norm: norm.get(year, 0) > 0)]
         x_values = year_data['x'].to_list()
@@ -246,8 +249,8 @@ def plot_loan_density(df):
         ax.axis("off")
 
     # Hide empty subplots
-    for i in range(len(unique_years), num_rows * 4):
-        row, col = i // 4, i % 4
+    for i in range(len(unique_years), num_rows * num_cols):
+        row, col = i // num_cols, i % num_cols
         fig.delaxes(axes[row, col])
 
     plt.tight_layout()
