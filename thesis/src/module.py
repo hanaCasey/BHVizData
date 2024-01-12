@@ -113,7 +113,7 @@ def plot_clustering(df, hdb):
             cluster_indices = np.where(hdb.labels_ == cluster_number)[0]
             cluster_x = df.iloc[cluster_indices]['x'].mean()
             cluster_y = df.iloc[cluster_indices]['y'].mean()
-            plt.text(cluster_x, cluster_y, str(cluster_number), fontsize=16, ha='center')
+            plt.text(cluster_x, cluster_y, str(cluster_number), fontsize=24, ha='center')
 
     # plt.text(0.05, 0.95, 'HDBSCAN clustering', transform=plt.gca().transAxes, fontsize=16, ha='left', fontname='Helvetica')
     plt.axis('off')
