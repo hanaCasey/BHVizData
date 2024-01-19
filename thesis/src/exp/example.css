@@ -1,12 +1,70 @@
-.container {
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+.wordclouds {
     display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
 }
-.left-column {
-    flex: 1;
+
+/* .loans-maps {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+} */
+
+.wordcloud-image {
+    width: 50%; /* Adjust width as needed */
+    height: auto;
 }
-.right-column {
-    flex: 1;
+
+.title-list {
+    display: -webkit-box;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    /* margin-bottom: 20px; */
 }
-.image {
-    margin-bottom: 20px; /* Add space below each image */
+
+
+.row {
+    display: -webkit-box;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .column {
+    margin-bottom: 20px;
+
+  }
+
+.loan-figure {
+    width: 50%;
+
 }
+
+.loan-figure img {
+    width: 100%;
+    height: auto;
+}
+
+.map-figure {
+    width: 50%;
+}
+
+.map-figure img {
+    width: 100%;
+    height: auto;
+}
+
+

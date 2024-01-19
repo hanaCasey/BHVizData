@@ -56,7 +56,6 @@ def eval_as(df):
     df['users_weighed'] = df['users_weighed'].apply(ast.literal_eval)
     return df
 
-
 def sum_loan_times(freq_dicts):
     """
     Aggregates loan times for each year.
@@ -68,6 +67,10 @@ def sum_loan_times(freq_dicts):
         dict: Dictionary with years as keys and aggregated loan times as values.
     """
     summed_times = {}
+
+    for year in range(2013, 2024):
+        summed_times[year] = 0
+
     for freq_dict in freq_dicts:
         for year, time in freq_dict.items():
             summed_times.setdefault(year, 0)
@@ -113,7 +116,7 @@ def plot_clustering(df, hdb):
             cluster_indices = np.where(hdb.labels_ == cluster_number)[0]
             cluster_x = df.iloc[cluster_indices]['x'].mean()
             cluster_y = df.iloc[cluster_indices]['y'].mean()
-            plt.text(cluster_x, cluster_y, str(cluster_number), fontsize=24, ha='center')
+            plt.text(cluster_x, cluster_y, str(cluster_number), fontsize=16, ha='center')
 
     # plt.text(0.05, 0.95, 'HDBSCAN clustering', transform=plt.gca().transAxes, fontsize=16, ha='left', fontname='Helvetica')
     plt.axis('off')
