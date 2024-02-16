@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+.wordclouds {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+/* .loans-maps {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+} */
+
+.wordcloud-image {
+    width: 50%; /* Adjust width as needed */
+    height: auto;
+}
+
+.row {
+    display: -webkit-box;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 20px;
+    max-height: 29cm; 
+    overflow: hidden; 
+  }
+  
+  .column {
+    margin-bottom: 20px;
+    width: 10cm;
+    overflow-wrap: break-word
+
+
+  }
+
+.loan-figure {
+    width: 50%;
+
+}
+
+.loan-figure img {
+    width: 100%;
+    height: auto;
+}
+
+.map-figure {
+    width: 50%;
+}
+
+.map-figure img {
+    width: 100%;
+    height: auto;
+}
+
+.page-break {
+    page-break-after: always;
+}
+

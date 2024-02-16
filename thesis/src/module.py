@@ -173,12 +173,12 @@ def subject_heatmap(df):
     cluster_totals = subject_cluster_matrix.sum(axis=1)
     subject_cluster_percentage = subject_cluster_matrix.div(cluster_totals, axis=0)
 
-    plt.figure(figsize=(12, 8))
+    plt.figure(figsize=(12, 8), dpi=300)
     sns.heatmap(subject_cluster_percentage, xticklabels=True, vmax=1.0)
     plt.title("Subject Percentage in Clusters")
     plt.xlabel("Subject")
     plt.ylabel("Cluster")
-    plt.xticks(rotation=90)
+    plt.xticks(rotation=45, ha='right')
     plt.show()
 
 
@@ -196,7 +196,7 @@ def temporality_heatmap(df):
     cluster_total_loan_times = cluster_yearly_time_df.sum(axis=1)
     cluster_yearly_percentage = cluster_yearly_time_df.div(cluster_total_loan_times, axis=0)
 
-    plt.figure(figsize=(12, 8))
+    plt.figure(figsize=(12, 8), dpi=300)
     sns.heatmap(cluster_yearly_percentage, vmax=1.0)
     plt.title("Normalized Loan Time by Cluster and Year")
     plt.xlabel("Year")
@@ -215,12 +215,12 @@ def language_heatmap(df):
     cluster_totals = lang_cluster_matrix.sum(axis=1)
     lang_cluster_percentage = lang_cluster_matrix.div(cluster_totals, axis=0)
 
-    plt.figure(figsize=(12, 8))
+    plt.figure(figsize=(12, 8), dpi=300)
     sns.heatmap(lang_cluster_percentage, xticklabels=True, vmax=1.0)
     plt.title("Percentage of languages per cluster")
     plt.xlabel("Language")
     plt.ylabel("Cluster")
-    plt.xticks(rotation=90)
+    plt.xticks(rotation=45, ha='right')
     plt.show()
 
 def plot_loan_density(df):
