@@ -21,16 +21,16 @@ The project introduces an innovative visual method for analysing libraries and a
 │   └── log.md                          # Internship log
 ├── thesis                              # Results from thesis 
 │   ├── plots                           
-│   ├── src
-│   │   ├── data                        # Data inputs and exports
-│   │   ├── exp                         # Exports 
-│   │   ├── 1_analysis.ipynb            # Preliminary data set analysis
-│   │   ├── 2_arrangement.ipynb         # Dimensionality Reduction and Parameterisation
-│   │   ├── 3_evaluation.ipynb          # Evalutaing the mappings
-│   │   ├── 4_separation.ipynb          # Seperating internal user loans
-│   │   ├── 5_atlas.ipynb               # Prompting OpenAI, Cluster Atlas
-│   │   ├── export.css                  # Html to pdf layout
-│   │   └── module.py                   # Common functions
+│   └──  src
+│       ├── data                        # Data inputs and exports
+│       ├── exp                         # Exports 
+│       ├── 1_analysis.ipynb            # Preliminary data set analysis
+│       ├── 2_arrangement.ipynb         # Dimensionality Reduction and Parameterisation
+│       ├── 3_evaluation.ipynb          # Evalutaing the mappings
+│       ├── 4_separation.ipynb          # Seperating internal user loans
+│       ├── 5_atlas.ipynb               # Prompting OpenAI, Cluster Atlas
+│       ├── export.css                  # Html to pdf layout
+│       └── module.py                   # Common functions
 ├── cluster_atlas_full.pdf              # Cluster Atlas
 ├── MappingBibliothecaHertziana.pdf     # Thesis Report
 ├── README.md                           # This file. 
@@ -67,10 +67,10 @@ pip install -r requirements.txt
 
 ## Data
 
-For privacy reasons the user loan data used in this project is not published. 
+For privacy reasons, the user loan data used in this project is not published. 
 
 ## Results
 
-Consult MappingBibliothecaHertzina.pdf to see the result of this thesis. 
+Consult MappingBibliothecaHertziana.pdf to see the result of this thesis. 
 
 ## 
