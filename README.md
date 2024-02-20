@@ -52,7 +52,6 @@ Ensure you have the following installed:
 First, clone this repository to your local machine using Git:
 
 ```
-bash
 git clone https://github.com/hanahCasey/BHVIZDATA.git
 cd your-repository-name
 ```
@@ -61,7 +60,6 @@ cd your-repository-name
 
 Install the required Python packages using pip:
 ```
-bash
 pip install -r requirements.txt
 ```
 
