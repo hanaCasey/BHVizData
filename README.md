@@ -32,6 +32,8 @@ The project introduces an innovative visual method for analysing libraries and a
 │       ├── export.css                  # Html to pdf layout
 │       └── module.py                   # Common functions
 ├── cluster_atlas_full.pdf              # Cluster Atlas
+├── interview_notes.pdf                 # Interview comments
+├── interview_questions.pdf             # Set of interview questions
 ├── MappingBibliothecaHertziana.pdf     # Thesis Report
 ├── README.md                           # This file. 
 └── requirements.txt                    # Requirements
