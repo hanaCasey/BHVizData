@@ -54,7 +54,7 @@ Ensure you have the following installed:
 First, clone this repository to your local machine using Git:
 
 ```
-git clone https://github.com/hanahCasey/BHVIZDATA.git
+git clone https://github.com/hanaCasey/BHVIZDATA.git
 cd your-repository-name
 ```
 
