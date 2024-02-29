@@ -104,8 +104,8 @@ def plot_clustering(df, hdb):
     df (DataFrame): The DataFrame containing the data points and their coordinates.
     hdb (HDBSCAN): The HDBSCAN clustering result object.
     """
-    color_palette = sns.color_palette('deep', 500)
-    cluster_colors = [color_palette[x] if x >= 0 else (0.5, 0.5, 0.5) for x in hdb.labels_]
+    # color_palette = sns.color_palette('deep', 500)
+    cluster_colors = [CUSTOM_COLOURS[0] if x >= 0 else (0.5, 0.5, 0.5) for x in hdb.labels_]
     cluster_member_colors = [sns.desaturate(x, p) for x, p in zip(cluster_colors, hdb.probabilities_)]
 
     plt.figure(figsize=(20, 15), dpi=300)
@@ -233,7 +233,7 @@ def plot_loan_density(df):
     
     unique_years = np.arange(2013, 2024)
 
-    num_cols = 2
+    num_cols = 3
     num_rows = (len(unique_years) - 1) // num_cols + 1 # subplots
     fig, axes = plt.subplots(num_rows, num_cols, figsize=(15, 6 * num_rows), dpi=300)
 
